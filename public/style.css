@@ -48,4 +48,5 @@ img{
     width: 100px;
     margin: 5px;
     box-shadow: #000 0 0 5px;
+    border-radius: 6px;
 }
