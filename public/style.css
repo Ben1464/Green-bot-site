@@ -50,3 +50,13 @@ img{
     box-shadow: #000 0 0 5px;
     border-radius: 6px;
 }
+.word1 {
+    color:#3ad80a; /* Color for the first word */
+    font-weight: bolder;
+    opacity: 200;
+}
+
+.word2 {
+    color: #EF1107;
+    font-weight: bolder;
+}
