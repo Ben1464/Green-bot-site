@@ -59,7 +59,7 @@ const solutions = [
         description:"Presento® 200SP is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
         solution: "Use Presento 10gms/20ltrs + Integra 3mls after spotting infestation cases.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
-        image: "./images/tomatothrips.jpg",
+        image: "./images/aphids.webp",
         availablepacksize:"20gms,100gms,250gms, 1Kg.",
         pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
     },
@@ -69,7 +69,7 @@ const solutions = [
         description:"Presento® 200SP is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
         solution: "Use Presento 10gms/20ltrs + Integra 3mls after spotting infestation cases.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
-        image: "./images/tomatothrips.jpg",
+        image: "./images/aphids.webp",
         availablepacksize:"20gms,100gms,250gms, 1Kg.",
         pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
     },
