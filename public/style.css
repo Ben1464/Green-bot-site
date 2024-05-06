@@ -154,7 +154,7 @@ th, td {
 }
 
 th {
-    background-color: #beda92; /* Light green background for table header */
+    background-color: #85f32b; /* Light green background for table header */
     color: #333; /* Dark gray text color */
     border-bottom: 1px solid #333; /* Dark gray border between header row and data rows */
     border-right: 1px solid #333; 
@@ -166,9 +166,9 @@ td {
     border-right: 1px solid #333; /* Vertical line between columns */
 }
 
-tr:nth-child(even) {
+/* tr:nth-child(even) {
     background-color: #d2f8be; /* Light green background for even rows */
-}
+ */
 
 tr:hover {
     background-color: #a7e09b; /* Lighter green background on hover */
