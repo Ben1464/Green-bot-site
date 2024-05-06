@@ -64,6 +64,10 @@ img {
     box-shadow: 0 0 5px #000;
     border-radius: 6px;
 }
+.logo{
+    height: 250px;
+    width: 250px;
+}
 
 /* Word color styles */
 .word1 {
