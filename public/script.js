@@ -8,9 +8,9 @@ const solutions = [
         image: "images/Kingcode-elite-2048x2048.webp",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
         pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
-       
     },
 ]
+
 function searchSolutions() {
     const searchInput = document.getElementById("searchInput").value.toLowerCase();
     const solutionResults = document.getElementById("solutionResults");
@@ -56,6 +56,7 @@ function searchSolutions() {
         });
     }
 }
+
 function getQueryParam(param) {
     const urlParams = new URLSearchParams(window.location.search);
     return urlParams.get(param);
@@ -73,7 +74,5 @@ function handleAutomaticSearch() {
 
 // Call the function to handle automatic search when the page loads
 window.onload = function() {
-    updateFooterDate(); // Update footer date as before
     handleAutomaticSearch(); // Perform automatic search based on URL parameter
 };
-

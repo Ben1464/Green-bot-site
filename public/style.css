@@ -44,7 +44,7 @@ h2 {
     margin: 10px;
     height: 150px; /* Fixed height for the footer */
     max-width: 300px;
-    background-color: #94dd63;
+    background-color: #beda92;
     border-radius: 6px;
     color: #333; /* Dark gray text color */
     display: flex;
@@ -53,6 +53,7 @@ h2 {
     align-items: center;
     font-size: 20px;
     font-family: sans-serif;
+    box-shadow: 0 0 5px #000;
 }
 
 /* Image styles */
@@ -89,20 +90,75 @@ img {
 }
 
 /* Button styles */
-button {
-    transition: background-color 0.3s ease-in-out;
+/* Search container styles */
+.search-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Search input styles */
+#searchInput {
+    padding: 10px;
+    border: 2px solid #3ad80a; /* Green border */
     border-radius: 12px;
-    height: 24px;
-    width: 78px;
-    
+    width: 200px;
+    font-size: 16px;
+    transition: border-color 0.3s ease-in-out;
+}
+
+#searchInput::placeholder {
+    color: #999; /* Light gray placeholder text */
+}
+
+/* Search button styles */
+button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #3ad80a; /* Green background */
+    color: #fff; /* White text color */
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease-in-out;
 }
 
 button:hover {
-    background-color: #3ad80a; /* Change to a darker shade of green on hover */
+    background-color: #2fa204; /* Darker shade of green on hover */
 }
 
 /* Focus styles */
-input:focus,
-button:focus {
-    outline: 2px solid #3ad80a; /* Green focus outline */
+#searchInput:focus {
+    outline: none;
+    border-color: #2fa204; /* Darker shade of green on focus */
 }
+
+
+/* Table styles */
+table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 0 5px #000;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #333; /* Dark gray border between rows */
+}
+
+th {
+    background-color: #beda92; /* Light green background for table header */
+    color: #333; /* Dark gray text color */
+}
+
+tr:nth-child(even) {
+    background-color: #d2f8be; /* Light green background for even rows */
+}
+
+tr:hover {
+    background-color: #a7e09b; /* Lighter green background on hover */
+}
+
