@@ -9,6 +9,152 @@ const solutions = [
         availablepacksize:"50mls,100mls,250mls,1ltr.",
         pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
     },
+    { 
+        problem: "Kingcode Elite", 
+        infestationimage: "images/Kingcode-elite-2048x2048.webp",
+        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,white flies,aphids,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
+        solution: "Use Kingcode 10mls/20ltrs plus Integra 3mls/20ltrs of water.After spotting cases of infrstation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/thrips.jpg",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+       
+    },
+    { 
+        problem: "Kingcode Elite ", 
+        infestationimage: "images/Kingcode-elite-2048x2048.webp",
+        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,white flies,aphids,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
+        solution: "Use Kingcode 10mls/20ltrs plus Integra 3mls/20ltrs of water.After spotting cases of infrstation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/thrips.jpg",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+       
+    },
+    { 
+        problem: "Kingcode", 
+        infestationimage: "images/Kingcode-elite-2048x2048.webp",
+        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,white flies,aphids,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
+        solution: "Use Kingcode 10mls/20ltrs plus Integra 3mls/20ltrs of water.After spotting cases of infrstation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/thrips.jpg",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+       
+    },
+    { 
+        problem: "Kingcode ", 
+        infestationimage: "images/Kingcode-elite-2048x2048.webp",
+        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,white flies,aphids,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
+        solution: "Use Kingcode 10mls/20ltrs plus Integra 3mls/20ltrs of water.After spotting cases of infrstation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/thrips.jpg",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+       
+    },
+    { 
+        problem: "Presento", 
+        infestationimage: "images/PRESENTO-KG-2048x2048.webp",
+        description:"Presento® 200SP is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
+        solution: "Use Presento 10gms/20ltrs + Integra 3mls after spotting infestation cases.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/tomatothrips.jpg",
+        availablepacksize:"20gms,100gms,250gms, 1Kg.",
+        pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
+    },
+    { 
+        problem: "Presento ", 
+        infestationimage: "images/PRESENTO-KG-2048x2048.webp",
+        description:"Presento® 200SP is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
+        solution: "Use Presento 10gms/20ltrs + Integra 3mls after spotting infestation cases.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/tomatothrips.jpg",
+        availablepacksize:"20gms,100gms,250gms, 1Kg.",
+        pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
+    },
+    { 
+        problem: "Ranger", 
+        infestationimage: "./images/ranger-480EC.webp",
+        description: "Ranger® 480EC is a non-systemic contact and stomach insecticide for foliar and stem application that is active against a range of insects widely used  in controlling pests like scales,thrips,aphids,mealybugs and leafminers in crops like miraa, muguka,coffee,rice and fruit trees . It is also used as termiticide for termites in fruit trees.",
+        solution: "Use Ranger 40mls plus Integra 3mls/20ltrs of water during the onset of infestation,when you are not havesting your berries.",
+        sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/scalesm.jpg",
+        availablepacksize:"100mls,250mls,500mls,1ltr.",
+        pricerange:"Ksh (300-350),Ksh (600-650),Ksh 1050-1100),1ltr(Ksh 1800-2000)"
+    },
+    { 
+        problem: "Ranger ", 
+        infestationimage: "./images/ranger-480EC.webp",
+        description: "Ranger® 480EC is a non-systemic contact and stomach insecticide for foliar and stem application that is active against a range of insects widely used  in controlling pests like scales,thrips,aphids,mealybugs and leafminers in crops like miraa, muguka,coffee,rice and fruit trees . It is also used as termiticide for termites in fruit trees.",
+        solution: "Use Ranger 40mls plus Integra 3mls/20ltrs of water during the onset of infestation,when you are not havesting your berries.",
+        sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/scalesm.jpg",
+        availablepacksize:"100mls,250mls,500mls,1ltr.",
+        pricerange:"Ksh (300-350),Ksh (600-650),Ksh 1050-1100),1ltr(Ksh 1800-2000)"
+    },
+    { 
+        problem: "Lexus", 
+        infestationimage: "images/Lexus-247SC.webp",
+        description: "Lexus® 247SC is broad spectrum systemic insecticide for control of scales,Leaf miners,berry borer,berry moth, aphids, whiteflies, diamond back moth, thrips and caterpillars on Coffee,Miraa,Muguka and Vegetables.",
+        solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water upon spotting cases of infestation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/whiteflies.webp",
+        availablepacksize:"40mls,100mls,1ltr.",
+        pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
+    },
+    { 
+        problem: "Lexus ", 
+        infestationimage: "images/Lexus-247SC.webp",
+        description: "Lexus® 247SC is broad spectrum systemic insecticide for control of scales,Leaf miners,berry borer,berry moth, aphids, whiteflies, diamond back moth, thrips and caterpillars on Coffee,Miraa,Muguka and Vegetables.",
+        solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water upon spotting cases of infestation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/whiteflies.webp",
+        availablepacksize:"40mls,100mls,1ltr.",
+        pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
+    },
+    { 
+        problem: "Bazooka", 
+        infestationimage: "images/Bazooka-2048x2048.webp",
+        description:"Bazooka® 18EC is an insecticide/miticide highly effective via contact and translaminar activities which is used to control pests like red spindermites,thrips and leafminers in ,miraa,muguka,fruits,vegetable and ornamental crops.",
+        solution: "Start spraying after spotting signs of infestation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/redspidermites.jpg",
+        availablepacksize:"50mls,100mls,250mls,500ls,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Bazooka ", 
+        infestationimage: "images/Bazooka-2048x2048.webp",
+        description:"Bazooka® 18EC is an insecticide/miticide highly effective via contact and translaminar activities which is used to control pests like red spindermites,thrips and leafminers in ,miraa,muguka,fruits,vegetable and ornamental crops.",
+        solution: "Start spraying after spotting signs of infestation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/redspidermites.jpg",
+        availablepacksize:"50mls,100mls,250mls,500mls,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Alonze", 
+        infestationimage: "./images/Alonze_50EC.webp",
+        description:"Alonze® 50EC is an insecticide, miticide, and nematicide highly effective through contact and translaminar activities which is used to control Spidermites, Thrips, Leafminers, and Nematodes in Miraa, Muguka, Fruits, Vegetables, and Ornamental Crops.",
+        solution: "Start spraying after spotting signs of infestation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/onion_thrips.webp",
+        availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh( 200-300),Ksh (450-550),Ksh (850-950),Ksh (2000-2200),Ksh (7900-8100)"
+    },
+    { 
+        problem: "Alonze ", 
+        infestationimage: "./images/Alonze_50EC.webp",
+        description:"Alonze® 50EC is an insecticide, miticide, and nematicide highly effective through contact and translaminar activities which is used to control Spidermites, Thrips, Leafminers, and Nematodes in Miraa, Muguka, Fruits, Vegetables, and Ornamental Crops.",
+        solution: "Start spraying after spotting signs of infestation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/onion_thrips.webp",
+        availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh( 200-300),Ksh (450-550),Ksh (850-950),Ksh (2000-2200),Ksh (7900-8100)"
+    },
+
+
 ]
 
 function searchSolutions() {
