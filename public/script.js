@@ -176,7 +176,7 @@ const solutions = [
     { 
         problem: "Escort", 
         infestationimage: "./images/Escort.webp",
-        description:"A highly effective natural insecticide containing Emamectin benzoate that targets a wide range lepidopteran insect pests such as fall armyworms, caterpillars, tuta absoluta, thrips, spider mites and diamondback among others on wide range of agricultural crops.",
+        description:"Escort is a highly effective natural insecticide containing Emamectin benzoate that targets a wide range lepidopteran insect pests such as fall armyworms, caterpillars, tuta absoluta, thrips, spider mites and diamondback among others on wide range of agricultural crops.",
         solution: "Spray 20mls-25mls/ plus Integra 3mls/20ltrs of water,for preventive and eradication actions. When controlling fallarmy worms spray during the evening hours for effective eradication.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/fallarmy.jpg",
@@ -187,7 +187,7 @@ const solutions = [
  { 
         problem: "Escort ", 
         infestationimage: "./images/Escort.webp",
-        description:"A highly effective natural insecticide containing Emamectin benzoate that targets a wide range lepidopteran insect pests such as fall armyworms, caterpillars, tuta absoluta, thrips, spider mites and diamondback among others on wide range of agricultural crops.",
+        description:"Escort is a highly effective natural insecticide containing Emamectin benzoate that targets a wide range lepidopteran insect pests such as fall armyworms, caterpillars, tuta absoluta, thrips, spider mites and diamondback among others on wide range of agricultural crops.",
         solution: "Spray 20mls-25mls/ plus Integra 3mls/20ltrs of water,for preventive and eradication actions. When controlling fallarmy worms spray during the evening hours for effective eradication.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/fallarmy.jpg",
