@@ -153,7 +153,57 @@ const solutions = [
         availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
         pricerange:"Ksh( 200-300),Ksh (450-550),Ksh (850-950),Ksh (2000-2200),Ksh (7900-8100)"
     },
+    { 
+        problem: "Profile", 
+        infestationimage: "./images/Profile-.webp",
+        description:"Profile® 440EC is an enhanced contact and stomach action Insecticide for foliar and stem application and is active particularly against sucking and chewing pests with broad spectrum long residual activity widely used in agriculture for controlling pests like thrips,whiteflies,aphids and fruitflies in a broad range of edible crops like fruits,vegetables and ornamentals.",
+        solution: "Start spraying 30mls/20ltrs plus Integra 3mls/20ltrs of water,after spotting signs of infestation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/fruitfly.jpg",
+        availablepacksize:"100mls,250mls,500mls,1ltr.",
+        pricerange:"Ksh (300-350),Ksh (750-800),Ksh (1400-1450),Ksh (2600-2750)"
+    },
+    { 
+        problem: "Profile ", 
+        infestationimage: "./images/Profile-.webp",
+        description:"Profile® 440EC is an enhanced contact and stomach action Insecticide for foliar and stem application and is active particularly against sucking and chewing pests with broad spectrum long residual activity widely used in agriculture for controlling pests like thrips,whiteflies,aphids and fruitflies in a broad range of edible crops like fruits,vegetables and ornamentals.",
+        solution: "Start spraying 30mls/20ltrs plus Integra 3mls/20ltrs of water,after spotting signs of infestation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/fruitfly.jpg",
+        availablepacksize:"100mls,250mls,500mls,1ltr.",
+        pricerange:"Ksh (300-350),Ksh (750-800),Ksh (1400-1450),Ksh (2600-2750)"
+    },
+    { 
+        problem: "Escort", 
+        infestationimage: "./images/Escort.webp",
+        description:"A highly effective natural insecticide containing Emamectin benzoate that targets a wide range lepidopteran insect pests such as fall armyworms, caterpillars, tuta absoluta, thrips, spider mites and diamondback among others on wide range of agricultural crops.",
+        solution: "Spray 20mls-25mls/ plus Integra 3mls/20ltrs of water,after spotting signs of infestation. When controlling fallarmy worms spray during the evening hours for effective eradication.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/fallarmy.jpg",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (300-350),Ksh (600-700),Ksh (1200-1250),Ksh (4100-4200)"
+    },
 
+ { 
+        problem: "Escort ", 
+        infestationimage: "./images/Escort.webp",
+        description:"A highly effective natural insecticide containing Emamectin benzoate that targets a wide range lepidopteran insect pests such as fall armyworms, caterpillars, tuta absoluta, thrips, spider mites and diamondback among others on wide range of agricultural crops.",
+        solution: "Spray 20mls-25mls/ plus Integra 3mls/20ltrs of water,after spotting signs of infestation. When controlling fallarmy worms spray during the evening hours for effective eradication.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/fallarmy.jpg",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (300-350),Ksh (600-700),Ksh (1200-1250),Ksh (4100-4200)"
+    },
+    { 
+        problem: "Pentagon", 
+        infestationimage: "./images/Pentagon--2048x2048.webp",
+        description:"Pentagon® 50 EC is a highly active contact and ingestion insecticide active particularly against sucking and chewing insects and has long residual activity. It is widely used for controlling insect pests in a broad range of edible and ornamental crops.It has a PHI of three days hence perfect to use on vegetables.",
+        solution: "Spray 20mls-25mls/ plus Integra 3mls/20ltrs of water,after spotting signs of infestation. When controlling fallarmy worms spray during the evening hours for effective eradication.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/kalespest.webp",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (300-350),Ksh (600-700),Ksh (1200-1250),Ksh (4100-4200)"
+    },
 
 ]
 
