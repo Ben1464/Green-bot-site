@@ -6,31 +6,35 @@
     <title>Greenlife Bot</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<div class="container">
 <body>
-    <img class="logo" src="./images/greenlife.webp" alt="Greenlife Bot">
-    <header>
-    <h2><span class="word1">Green</span><span class="word2">life</span> Bot-site </h2>
-    </header>
-    
-    <p class="main"> <article>Welcome to Greenlife bot-site. The platform offers information on curated remedies tailored for maximum impact on your farm.</article> </p>
-    <!-- <label for="Search">Search:</label> -->
-    <main>
-        <div class="search-container">
-            <input type="text" id="searchInput" placeholder="Search for solutions...">
-            <button onclick="searchSolutions()">Search</button>
+    <div class="container">
+        <img class="logo" src="./images/greenlife.webp" alt="Greenlife Bot">
+        <header>
+            <h2><span class="word1">Green</span><span class="word2">life</span> Bot-site </h2>
+        </header>
+        
+        <div class="main-container">
+            <div class="main-content">
+                <p class="main"><article>Welcome to Greenlife bot-site. The platform offers information on curated remedies tailored for maximum impact on your farm.</article></p>
+            </div>
         </div>
-        <div id="solutionResults"></div>
-    </main>
-    <div class="footer">
-   <footer><b>At Greenlife Your Growth is Our Growth!</b><br>
-    {RavenDev}<br>
-    &copy;2024
-   
-    
-</footer> 
-</div>
+
+        <main>
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search for solutions...">
+                <button onclick="searchSolutions()">Search</button>
+            </div>
+            <div id="solutionResults"></div>
+        </main>
+
+        <div class="footer">
+            <footer><b>At Greenlife Your Growth is Our Growth!</b><br>
+            {RavenDev}<br>
+            &copy;2024
+            </footer> 
+        </div>
+    </div>
+
+    <script src="script.js"></script>
 </body>
-<script src="script.js"></script>
-</div>
 </html>
