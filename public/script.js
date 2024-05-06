@@ -235,17 +235,100 @@ const solutions = [
         pricerange:"Ksh (600-700),Ksh (1200-1300),Ksh (2300-2400),Ksh (5300-5400),Ksh (10400-10600), Ksh (19700-20900)"
     },
 
-{ 
-        problem: "Occasion Star", 
-        infestationimage: "./images/occasion-star.webp",
-        description:"A unique brand new insecticide combination of Emamectin benzoate and Indoxacarb with contact and stomach action for broad spectrum control of chewing insects such as tuta absoluta, caterpillars, leaf miners, bollworms, fall armyworms, false codling moths, webworms, budworms, leafworms, thrips and also spider mites in ornamentals, cereals and vegetables.",
-        solution: "Spray 3-5mls plus Integra 3mls/20ltrs of water,for prevention and eradication actions.",
+    { 
+        problem: "Absolute Star", 
+        infestationimage: "images/Absolute-star-2048x2048.webp",
+        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
+        solution: "For preventive and curative actions alternate Absolute star 10mls with,Trinity Gold 50gmsl/20ltrs of water.",
+        image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
-        image: "./images/ballwarm.jpg",
-        availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh (550-600),Ksh (1050-1100),Ksh (1900-2000), Ksh (4400-4800),Ksh (17000-18000), "
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
     },
 
+    { 
+        problem: "Absolute Star ", 
+        infestationimage: "images/Absolute-star-2048x2048.webp",
+        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
+        solution: "For preventive and curative actions alternate Absolute star 10mls with,Trinity Gold 50gmsl/20ltrs of water.",
+        image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+    },
+    { 
+        problem: "Trinity Gold", 
+        infestationimage: "./images/Trinity-Gold.webp",
+        description:"Trinity Gold® 452WP is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
+        solution: "For preventive and curative actions alternate Trinity Gold 50gmsl/20ltrs of water with Absolute star 10mls.",
+        image: "./images/Late-Blight-Tomatoes.webp",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"50gms,100gms,250gms,500gms,1kg,5kgs.",
+        pricerange:"Ksh(150-200),Ksh(200-250),Ksh(450-500),Ksh(850-900),Ksh(1650-1750),Ksh (7600-7800)."
+    },
+    { 
+        problem: "Trinity Gold ", 
+        infestationimage: "./images/Trinity-Gold.webp",
+        description:"Trinity Gold® 452WP is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
+        solution: "For preventive and curative actions alternate Trinity Gold 50gmsl/20ltrs of water with Absolute star 10mls.",
+        image: "./images/Late-Blight-Tomatoes.webp",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"50gms,100gms,250gms,500gms,1kg,5kgs.",
+        pricerange:"Ksh(150-200),Ksh(200-250),Ksh(450-500),Ksh(850-900),Ksh(1650-1750),Ksh (7600-7800)."
+    },
+    { 
+        problem: "Trinity", 
+        infestationimage: "./images/Trinity-Gold.webp",
+        description:"Trinity Gold® 452WP is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
+        solution: "For preventive and curative actions alternate Trinity Gold 50gmsl/20ltrs of water with Absolute star 10mls.",
+        image: "./images/Late-Blight-Tomatoes.webp",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"50gms,100gms,250gms,500gms,1kg,5kgs.",
+        pricerange:"Ksh(150-200),Ksh(200-250),Ksh(450-500),Ksh(850-900),Ksh(1650-1750),Ksh (7600-7800)."
+    },
+
+{ 
+        problem: "Trinity ", 
+        infestationimage: "./images/Trinity-Gold.webp",
+        description:"Trinity Gold® 452WP is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
+        solution: "For preventive and curative actions alternate Trinity Gold 50gmsl/20ltrs of water with Absolute star 10mls.",
+        image: "./images/Late-Blight-Tomatoes.webp",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"50gms,100gms,250gms,500gms,1kg,5kgs.",
+        pricerange:"Ksh(150-200),Ksh(200-250),Ksh(450-500),Ksh(850-900),Ksh(1650-1750),Ksh (7600-7800)."
+    },
+
+    { 
+        problem: "Souvenir", 
+        infestationimage: "./images/Souvenir.png",
+        description:"SOUVENIR® 800 WDG is a broad spectrum protective fungicide/miticide with contact and vapor action for the control of powdery mildew and spider mites on roses, rust, angular leaf spot and anthracnose on French beans, downy mildew, powdery mildew and anthracnose on capsicum, early and late blight and spider mites on tomatoes, powdery mildew, purple blotch and rust on onions and powdery mildew on snow peas.",
+        solution: "For preventive and curative actions alternate Souvenir 50gmsl/20ltrs of water with Absolute star 10mls.",
+        image: "./images/beanrust.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"1kg,25kgs.",
+        pricerange:"Ksh(350-400),Ksh(8000-8500)."
+    },
+    { 
+        problem: "Souvenir ", 
+        infestationimage: "./images/Souvenir.png",
+        description:"SOUVENIR® 800 WDG is a broad spectrum protective fungicide/miticide with contact and vapor action for the control of powdery mildew and spider mites on roses, rust, angular leaf spot and anthracnose on French beans, downy mildew, powdery mildew and anthracnose on capsicum, early and late blight and spider mites on tomatoes, powdery mildew, purple blotch and rust on onions and powdery mildew on snow peas.",
+        solution: "For preventive and curative actions alternate Souvenir 50gmsl/20ltrs of water with Absolute star 10mls.",
+        image: "./images/beanrust.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"1kg,25kgs.",
+        pricerange:"Ksh(350-400),Ksh(8000-8500)."
+    },  
+
+    { 
+        problem: "Ransom", 
+        infestationimage: "./images/Ransom-2048x2048.webp",
+        description:"Ransom® 600WP is an enhanced excellent systemic and contact fungicide with preventive and curative actions on a wide range of diseases, particularly powdery mildew and rusts on agricultural crops.",
+        solution: "For preventive and curative actions alternate Ransom 10gmsl/20ltrs of water with Absolute star 10mls.",
+        image: "./images/powerdery.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"100mgs,250mgs,1kg.",
+        pricerange:"Ksh(350-400),Ksh(8000-8500),Ksh(1650-1750)."
+    },  
 ]
 
 function searchSolutions() {
