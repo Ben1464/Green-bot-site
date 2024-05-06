@@ -156,6 +156,14 @@ th, td {
 th {
     background-color: #beda92; /* Light green background for table header */
     color: #333; /* Dark gray text color */
+    border-bottom: 1px solid #333; /* Dark gray border between header row and data rows */
+    border-right: 1px solid #333; 
+}
+td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #333; /* Dark gray border between rows */
+    border-right: 1px solid #333; /* Vertical line between columns */
 }
 
 tr:nth-child(even) {
