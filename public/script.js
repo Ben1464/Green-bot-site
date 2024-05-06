@@ -205,6 +205,17 @@ const solutions = [
         pricerange:"Ksh (300-350),Ksh (600-700),Ksh (1200-1250),Ksh (4100-4200)"
     },
     { 
+        problem: "Taurus", 
+        infestationimage: "./images/Taurus-2048x2048.webp",
+        description:"Taurus® 500SP is a powerful insecticide with a broad-spectrum control especially for sucking insects like whiteflies,aphids and thrips",
+        solution: "Spray 10gms plus Integra 3mls/20ltrs of water,for preventive and eradication actions alternate with profile 30mls/20ltrs.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/whiteflies melon.jpg",
+        availablepacksize:"100gms,1kg.",
+        pricerange:"Ksh (550-600),Ksh (5400-5600)"
+    },
+
+    { 
         problem: "Pentagon ", 
         infestationimage: "./images/Pentagon--2048x2048.webp",
         description:"Pentagon® 50 EC is a highly active contact and ingestion insecticide active particularly against sucking and chewing insects and has long residual activity. It is widely used for controlling insect pests in a broad range of edible and ornamental crops.It has a PHI of three days hence perfect to use on vegetables.",
@@ -327,8 +338,63 @@ const solutions = [
         image: "./images/powerdery.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         availablepacksize:"100mgs,250mgs,1kg.",
-        pricerange:"Ksh(350-400),Ksh(8000-8500),Ksh(1650-1750)."
+        pricerange:"Ksh(400-450),Ksh(650-750),Ksh(2500-2650)."
     },  
+    { 
+        problem: "Ransom ", 
+        infestationimage: "./images/Ransom-2048x2048.webp",
+        description:"Ransom® 600WP is an enhanced excellent systemic and contact fungicide with preventive and curative actions on a wide range of diseases, particularly powdery mildew and rusts on agricultural crops.",
+        solution: "For preventive and curative actions alternate Ransom 10gmsl/20ltrs of water with Absolute star 10mls.",
+        image: "./images/powerdery.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"100mgs,250mgs,1kg.",
+        pricerange:"Ksh(400-450),Ksh(650-750),Ksh(2500-2650)."
+    },  
+
+    { 
+        problem: "Chariot", 
+        infestationimage: "./images/Chariot-Greenlife.webp",
+        description:"Chariot® 500SC is a systemic fungicide with protective and curative action against various diseases like angular leafrust, early and late blight, rootrot,stemrot and dieback in agricultural crops.",
+        solution: "For preventive and curative actions alternate Chariot 10mls with,Trinity Gold 50gmsl/20ltrs of water.",
+        image: "./images/rootrot.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh(200-250),Ksh(300-350),Ksh(550-650),Ksh(1900-2100)."
+    },
+    { 
+        problem: "Chariot ", 
+        infestationimage: "./images/Chariot-Greenlife.webp",
+        description:"Chariot® 500SC is a systemic fungicide with protective and curative action against various diseases like angular leafrust, early and late blight, rootrot,stemrot and dieback in agricultural crops.",
+        solution: "For preventive and curative actions alternate Chariot 10mls with,Trinity Gold 50gmsl/20ltrs of water.",
+        image: "./images/rootrot.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh(200-250),Ksh(300-350),Ksh(550-650),Ksh(1900-2100)."
+    },
+
+    { 
+        problem: "Zinc Gold", 
+        infestationimage: "./images/zinc-gold.webp",
+        description:"Zinc Gold® is a sugar alcohol zinc foliar fertilizer with a special natural sugar alcohol chelating technique for leaf spraying to accelerate the absorption of zinc and make zinc which is difficult to move, move quickly in the plant and act directly on the growth centre, in a wide range of agricultural crops.",
+        solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
+        image: "./images/waterzinc.jpg",
+        sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh (650-750),Ksh (1300-1400)."
+        
+    },
+
+    { 
+        problem: "Zinc Gold ", 
+        infestationimage: "./images/zinc-gold.webp",
+        description:"Zinc Gold® is a sugar alcohol zinc foliar fertilizer with a special natural sugar alcohol chelating technique for leaf spraying to accelerate the absorption of zinc and make zinc which is difficult to move, move quickly in the plant and act directly on the growth centre, in a wide range of agricultural crops.",
+        solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
+        image: "./images/waterzinc.jpg",
+        sprayingintervals: "Repeat spray after 21 days.During flowering and fruiting stage.",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh (650-750),Ksh (1300-1400)."
+        
+    },
 ]
 
 function searchSolutions() {
