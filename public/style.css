@@ -118,7 +118,7 @@ img.logo{
 button {
     padding: 10px 20px;
     border: none;
-    background-color: #3ad80a; /* Green background */
+    background-color: rgb(31, 255, 31); /* Green background */
     color: black; /* White text color */
     border-radius: 12px;
     cursor: pointer;
