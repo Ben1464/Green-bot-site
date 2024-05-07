@@ -395,6 +395,471 @@ const solutions = [
         pricerange:"Ksh (650-750),Ksh (1300-1400)."
         
     },
+    { 
+        problem: "Greencop", 
+        infestationimage: "images/Green-Cop.webp",
+        description:"Green Cop® 500WP is an excellent contact fungicide with protective action for the control of wide range of diseases particularly Botrytis, rust, Angular leaf spot, Early and Late blight, Coffee leaf rust, and Coffee berry disease (CBD).",
+        solution: "For preventive actions use 140gms/20ltrs of water during dry seasons, and tank mix 70gms with Katerina 50mls/20ltrs of water during cold seasons for preventive and curative actions.",
+        image: "./images/leafrust.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
+    },
+
+    { 
+        problem: "Green Copper", 
+        infestationimage: "images/Green-Cop.webp",
+        description:"Green Cop® 500WP is an excellent contact fungicide with protective action for the control of wide range of diseases particularly Botrytis, rust, Angular leaf spot, Early and Late blight, Coffee leaf rust, and Coffee berry disease (CBD).",
+        solution: "For preventive actions use 140gms/20ltrs of water during dry seasons, and tank mix 70gms with Katerina 50mls/20ltrs of water during cold seasons for preventive and curative actions.",
+        image: "./images/leafrust.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
+    },
+    { 
+        problem: "Green Copper ", 
+        infestationimage: "images/Green-Cop.webp",
+        description:"Green Cop® 500WP is an excellent contact fungicide with protective action for the control of wide range of diseases particularly Botrytis, rust, Angular leaf spot, Early and Late blight, Coffee leaf rust, and Coffee berry disease (CBD).",
+        solution: "For preventive actions use 140gms/20ltrs of water during dry seasons, and tank mix 70gms with Katerina 50mls/20ltrs of water during cold seasons for preventive and curative actions.",
+        image: "./images/leafrust.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
+    },
+    { 
+        problem: "Compliant", 
+        infestationimage: "./images/compliant.webp",
+        description:"Compliant® 560SC is a contact and systemic fungicide for the control of various diseases in agricultural crops including coffee berry diseaes and leaf rust in coffee",
+        solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/CBD.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
+        availablepacksize:"100mls,250mls,1ltr.",
+        pricerange:"Ksh(500-600),Ksh(850-900),Ksh(2800-3000)."
+    },
+
+    { 
+        problem: "Compliant ", 
+        infestationimage: "./images/compliant.webp",
+        description:"Compliant® 560SC is a contact and systemic fungicide for the control of various diseases in agricultural crops including coffee berry diseaes and leaf rust in coffee",
+        solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/CBD.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
+        availablepacksize:"100mls,250mls,1ltr.",
+        pricerange:"Ksh(500-600),Ksh(850-900),Ksh(2800-3000)."
+    },
+    { 
+        problem: "Zincabor", 
+        infestationimage: "./images/zincabor.jpg",
+        description:"Zincabor is a highly soluble and effective inorganic fertilizer containing readily available Boron, Zinc and Nitrogen to improve pollen production and improve vigor on flowers and leaves with great fruit development as well as bud differentiation in all agricultural crops.",
+        solution: "Use Zincabor 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
+        image: "./images/flowersal.jpe",
+        sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
+        availablepacksize:"250mls,500mls,1ltr.",
+        pricerange:"Ksh (350-400),Ksh (650-750),Ksh (1300-1400)."
+    },
+    { 
+        problem: "Zincabor ", 
+        infestationimage: "./images/zincabor.jpg",
+        description:"Zincabor is a highly soluble and effective inorganic fertilizer containing readily available Boron, Zinc and Nitrogen to improve pollen production and improve vigor on flowers and leaves with great fruit development as well as bud differentiation in all agricultural crops.",
+        solution: "Use Zincabor 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
+        image: "./images/flowersal.jpe",
+        sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
+        availablepacksize:"250mls,500mls,1ltr.",
+        pricerange:"Ksh (350-400),Ksh (650-750),Ksh (1300-1400)."
+    },
+    { 
+        problem: "Vitabor Gold", 
+        infestationimage: "images/Vitabor-Gold.webp",
+        description:"Vitabor Gold® is a highly soluble, effective and cost-efficient foliar fertilizer containing readily available Boron and Nitrogen for the plant. Its formulation includes the necessary additives for a perfect adherence in the leaves of the crops.",
+        solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
+        image: "./images/flower vitabor.jpg",
+        sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(600-700),Ksh(1250-1300)."
+    },
+    { 
+        problem: "Vitabor Gold ", 
+        infestationimage: "images/Vitabor-Gold.webp",
+        description:"Vitabor Gold® is a highly soluble, effective and cost-efficient foliar fertilizer containing readily available Boron and Nitrogen for the plant. Its formulation includes the necessary additives for a perfect adherence in the leaves of the crops.",
+        solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
+        image: "./images/flower vitabor.jpg",
+        sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(600-700),Ksh(1250-1300)."
+    },
+    { 
+        problem: "Vitabor", 
+        infestationimage: "images/Vitabor-Gold.webp",
+        description:"Vitabor Gold® is a highly soluble, effective and cost-efficient foliar fertilizer containing readily available Boron and Nitrogen for the plant. Its formulation includes the necessary additives for a perfect adherence in the leaves of the crops.",
+        solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
+        image: "./images/flower vitabor.jpg",
+        sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(600-700),Ksh(1250-1300)."
+    },
+    { 
+        problem: "Vitabor ", 
+        infestationimage: "images/Vitabor-Gold.webp",
+        description:"Vitabor Gold® is a highly soluble, effective and cost-efficient foliar fertilizer containing readily available Boron and Nitrogen for the plant. Its formulation includes the necessary additives for a perfect adherence in the leaves of the crops.",
+        solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
+        image: "./images/flower vitabor.jpg",
+        sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(600-700),Ksh(1250-1300)."
+    },
+    { 
+        problem: "Lavender Total", 
+        infestationimage: "images/Lavender-total-combine-2048x2048.webp",
+        description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
+        image: "./images/maize.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"100mls,250mls,500mls,1ltr,5ltrs,10ltrs,20ltrs.",
+        pricerange:"Ksh(200-250),Ksh(450-500),Ksh(750-800),Ksh (1500-1600),Ksh(6500-6700),Ksh(12000-12300),Ksh(23400-24000)."
+    },
+
+    { 
+        problem: "Lavender Total ", 
+        infestationimage: "images/Lavender-total-combine-2048x2048.webp",
+        description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
+        image: "./images/maize.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"100mls,250mls,500mls,1ltr,5ltrs,10ltrs,20ltrs.",
+        pricerange:"Ksh(200-250),Ksh(450-500),Ksh(750-800),Ksh (1500-1600),Ksh(6500-6700),Ksh(12000-12300),Ksh(23400-24000)."
+    },
+    { 
+        problem: "Lavender", 
+        infestationimage: "images/Lavender-total-combine-2048x2048.webp",
+        description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
+        image: "./images/maize.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"100mls,250mls,500mls,1ltr,5ltrs,10ltrs,20ltrs.",
+        pricerange:"Ksh(200-250),Ksh(450-500),Ksh(750-800),Ksh (1500-1600),Ksh(6500-6700),Ksh(12000-12300),Ksh(23400-24000)."
+    },
+    { 
+        problem: "Lavender ", 
+        infestationimage: "images/Lavender-total-combine-2048x2048.webp",
+        description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
+        image: "./images/maize.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"100mls,250mls,500mls,1ltr,5ltrs,10ltrs,20ltrs.",
+        pricerange:"Ksh(200-250),Ksh(450-500),Ksh(750-800),Ksh (1500-1600),Ksh(6500-6700),Ksh(12000-12300),Ksh(23400-24000)."
+    },
+    { 
+        problem: "Goldchance Fruit & Flower", 
+        infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
+        description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
+        solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water.",
+        image: "./images/peper goldchance.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"500gms,1kg,25kgs",
+        pricerange:"Ksh(250-300),Ks(450-500),Ksh(10300-10800)"
+    },
+
+    { 
+        problem: "Goldchance", 
+        infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
+        description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
+        solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water during flowering and fruiting stages.",
+        image: "./images/peper goldchance.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"500gms,1kg,25kgs",
+        pricerange:"Ksh(250-300),Ks(450-500),Ksh(10300-10800)"
+    },
+    { 
+        problem: "Goldchance ", 
+        infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
+        description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
+        solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water during flowering and fruiting stages.",
+        image: "./images/peper goldchance.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"500gms,1kg,25kgs",
+        pricerange:"Ksh(250-300),Ks(450-500),Ksh(10300-10800)"
+    },
+    { 
+        problem: "Goldchance multi K", 
+        infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
+        description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
+        solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water during flowering and fruiting stages.",
+        image: "./images/peper goldchance.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"500gms,1kg,25kgs",
+        pricerange:"Ksh(250-300),Ks(450-500),Ksh(10300-10800)"
+    },
+
+    { 
+        problem: "Humipower", 
+        infestationimage: "images/Humipower-bag-2048x2048.webp",
+        description:"Humipower is a water-soluble soil amendment and blend that contains potassium, humates and fulvic acid in granular form. It is used in agricultural, horticultural and field crops, landscaping lawns, pot plants as well as gardening. It is used both in the soil as an amendment and as fertilizer blend to enhance nutrient uptake, improves water holding capacity, increases aeration, improves tilth and workability and stimulate the activity of the beneficial microorganisms.",
+        solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
+        image: "./images/fertilizer.webp",
+        sprayingintervals: "Use while applying basal fertilizers.",
+        availablepacksize:"500gms,1kg,25kgs",
+        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
+
+    }, 
+
+
+{ 
+        problem: "Humipower ", 
+        infestationimage: "images/Humipower-bag-2048x2048.webp",
+        description:"Humipower is a water-soluble soil amendment and blend that contains potassium, humates and fulvic acid in granular form. It is used in agricultural, horticultural and field crops, landscaping lawns, pot plants as well as gardening. It is used both in the soil as an amendment and as fertilizer blend to enhance nutrient uptake, improves water holding capacity, increases aeration, improves tilth and workability and stimulate the activity of the beneficial microorganisms.",
+        solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
+        image: "./images/fertilizer.webp",
+        sprayingintervals: "Use while applying basal fertilizers.",
+        availablepacksize:"500gms,1kg,25kgs",
+        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
+
+    }, 
+    { 
+        problem: "Integra", 
+        infestationimage:"images/Integra (1).webp",
+        solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
+        image: "images/stickersp.jpg",
+        sprayingintervals:"Incoporate it every time you are doing spraying of whatever kind",
+        availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (150-180),Ksh(250-300),Ksh(450-500),Ksh(1250-1300),Ksh(3400-3500)"
+    },
+
+    { 
+        problem: "Integra ", 
+        infestationimage:"images/Integra (1).webp",
+        solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
+        image: "images/stickersp.jpg",
+        sprayingintervals:"Incoporate it every time you are doing spraying of whatever kind",
+        availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (150-180),Ksh(250-300),Ksh(450-500),Ksh(1250-1300),Ksh(3400-3500)"
+    },
+    { 
+        problem: "Optimizer", 
+        infestationimage: "images/Optimizer-new-2048x2048.webp",
+        description:"Optimizer® is a pure natural fermented liquid seaweed fertilizer enriched with NPK fertilizer for use in coffee, vegetables, fruits, ornamentals and cereals for quality and optimum yields.It is designed to help the plant to counter transplanting shock in young crops,It can be applied as a foliar spray or through drenching/ drip irrigation and its suitable for use in all vegetables, flowers, coffee, cereals, potatoes, and fruit trees as mangoes, avocados, strawberries, melon, and grapes among others.",
+        solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
+        image: "./images/MANGO opt.jpg",
+        sprayingintervals:"Spray it every time you observe coffee trees are under stress.",
+        availablepacksize:"100mls,250mls,500mls,1ltr,5ltr.",
+        pricerange:"Ksh(250-300),Ksh(450-500),Ksh(850-900),Ksh(1600-1700),Ksh(7000-7300)"
+
+    },
+
+{ 
+        problem: "Optimizer ", 
+        infestationimage: "images/Optimizer-new-2048x2048.webp",
+        description:"Optimizer® is a pure natural fermented liquid seaweed fertilizer enriched with NPK fertilizer for use in coffee, vegetables, fruits, ornamentals and cereals for quality and optimum yields.It is designed to help the plant to counter transplanting shock in young crops,It can be applied as a foliar spray or through drenching/ drip irrigation and its suitable for use in all vegetables, flowers, coffee, cereals, potatoes, and fruit trees as mangoes, avocados, strawberries, melon, and grapes among others.",
+        solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
+        image: "./images/MANGO opt.jpg",
+        sprayingintervals:"Spray it every time you observe coffee trees are under stress.",
+        availablepacksize:"100mls,250mls,500mls,1ltr,5ltr.",
+        pricerange:"Ksh(250-300),Ksh(450-500),Ksh(850-900),Ksh(1600-1700),Ksh(7000-7300)"
+
+    },
+    { 
+        problem: "Jambo Clean", 
+        infestationimage: "images/Jambo-Clean.webp",
+        description:"Jambo Clean® is a combination of cleaner and fertilizer, which removes all sooty moulds, honeydew, dust, grease and other contaminants off leaf surface, nourishes crops by supplying phosphorus and nitrogen, necessitates maximum light exposure for photosynthesis, eliminates other predisposing factors and consequently maintains healthier plant all year round.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/sooty.jpg",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+
+    { 
+        problem: "Jambo Clean ", 
+        infestationimage: "images/Jambo-Clean.webp",
+        description:"Jambo Clean® is a combination of cleaner and fertilizer, which removes all sooty moulds, honeydew, dust, grease and other contaminants off leaf surface, nourishes crops by supplying phosphorus and nitrogen, necessitates maximum light exposure for photosynthesis, eliminates other predisposing factors and consequently maintains healthier plant all year round.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/sooty.jpg",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Spraying Pump", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray.",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Pump", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray.",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Pump ", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray.",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Electric Pump", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray.",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Electric Pump ", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray.",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Greenlife Star", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Greenlife Star ", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+
+
+    { 
+        problem: "Greenlife Star Pump", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Greenlife Star Pump ", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Greenlife Star Pump 18 liters", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Knapsack Pump", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Knapsack Pump ", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Knapsack Sprayer", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Knapsack Sprayer ", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Sprayer ", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray.",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Sprayer", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray.",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Sprayers", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray.",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Sprayers ", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray.",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+
 ]
 
 function searchSolutions() {
