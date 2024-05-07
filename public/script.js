@@ -245,6 +245,27 @@ const solutions = [
         availablepacksize:"25mls,50mls,100mls,250mls,500,1ltr.",
         pricerange:"Ksh (600-700),Ksh (1200-1300),Ksh (2300-2400),Ksh (5300-5400),Ksh (10400-10600), Ksh (19700-20900)"
     },
+    { 
+        problem: "Occasion star", 
+        infestationimage: "./images/occasion-star.webp",
+        description:"Occasion star is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
+        solution: "Spray 3-5mls plus Integra 3mls/20ltrs of water,for prevention and eradication actions.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/ballwarm.jpg",
+        availablepacksize:"25mls,50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh (550-600),Ksh (1100-1200),Ksh (1800-2000),Ksh (4800-5000),Ksh (9600-10000), Ksh (19700-20900)"
+    },
+    { 
+        problem: "Occasion star ", 
+        infestationimage: "./images/occasion-star.webp",
+        description:"Occasion star is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
+        solution: "Spray 3-5mls plus Integra 3mls/20ltrs of water,for prevention and eradication actions.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/ballwarm.jpg",
+        availablepacksize:"25mls,50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh (550-600),Ksh (1100-1200),Ksh (1800-2000),Ksh (4800-5000),Ksh (9600-10000), Ksh (19700-20900)"
+    },
+    
 
     { 
         problem: "Absolute Star", 
