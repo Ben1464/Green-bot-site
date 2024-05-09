@@ -309,7 +309,7 @@ const solutions = [
     { 
         problem: "Wembe ", 
         infestationimage: "./images/Wembe-200-SL-2048x2048 (1).webp",
-        description:"Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses.",
+        description:"Wembe® 200 SL (Glufosinate-Ammonium 200 g/l) is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses.",
         solution: "Spray 100mls/20ltrs of water.",
         image: "./images/weeds.jpeg",
         sprayingintervals: "Spary when the soil is moist for more efficacy.",
