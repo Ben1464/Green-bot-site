@@ -53,7 +53,7 @@ const solutions = [
     { 
         problem: "Emerald", 
         infestationimage: "./images/Emerald_200sl.webp",
-        description: "Emerald® 200SL is a highly effective systemic foliar insecticide with high residual effect, for controlling sucking insects in a wide range of agricultural crops like miraa,mugukaa, fruits and vegetables.",
+        description: "Emerald® 200SL (Imidacloprid 200 g/L) is a highly effective systemic foliar insecticide with high residual effect, for controlling sucking insects in a wide range of agricultural crops like miraa,mugukaa, fruits and vegetables.",
         solution: "Use Emerald 10mls/20ltrs + Integra 3mls after spotting infestation cases.Alternate with Lexus 10mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/miraa scales.jpg",
@@ -64,7 +64,7 @@ const solutions = [
 { 
         problem: "Emerald ", 
         infestationimage: "./images/Emerald_200sl.webp",
-        description: "Emerald® 200SL is a highly effective systemic foliar insecticide with high residual effect, for controlling sucking insects in a wide range of agricultural crops like miraa,mugukaa, fruits and vegetables.",
+        description: "Emerald® 200SL (Imidacloprid 200 g/L) is a highly effective systemic foliar insecticide with high residual effect, for controlling sucking insects in a wide range of agricultural crops like miraa,mugukaa, fruits and vegetables.",
         solution: "Use Emerald 10mls/20ltrs + Integra 3mls after spotting infestation cases.Alternate with Lexus 10mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/miraa scales.jpg",
@@ -74,7 +74,7 @@ const solutions = [
     { 
         problem: "Presento", 
         infestationimage: "images/PRESENTO-KG-2048x2048.webp",
-        description:"Presento® 200SP is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
+        description:"Presento® 200SP (Acetamiprid 200 g/kg) is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
         solution: "Use Presento 10gms/20ltrs + Integra 3mls after spotting infestation cases.Alternate with Lexus 10mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/aphids.webp",
@@ -84,7 +84,7 @@ const solutions = [
     { 
         problem: "Presento ", 
         infestationimage: "images/PRESENTO-KG-2048x2048.webp",
-        description:"Presento® 200SP is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
+        description:"Presento® 200SP (Acetamiprid 200 g/kg) is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
         solution: "Use Presento 10gms/20ltrs + Integra 3mls after spotting infestation cases.Alternate with Lexus 10mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/aphids.webp",
@@ -94,7 +94,7 @@ const solutions = [
     { 
         problem: "Ranger", 
         infestationimage: "./images/ranger-480EC.webp",
-        description: "Ranger® 480EC is a non-systemic contact and stomach insecticide for foliar and stem application that is active against a range of insects widely used  in controlling pests like scales,thrips,aphids,mealybugs and leafminers in crops like miraa, muguka,coffee,rice and fruit trees . It is also used as termiticide for termites in fruit trees.",
+        description: "Ranger® 480EC ( Chlorpyrifos 480 g/L) is a non-systemic contact and stomach insecticide for foliar and stem application that is active against a range of insects widely used  in controlling pests like scales,thrips,aphids,mealybugs and leafminers in crops like miraa, muguka,coffee,rice and fruit trees . It is also used as termiticide for termites in fruit trees.",
         solution: "Use Ranger 40mls plus Integra 3mls/20ltrs of water during the onset of infestation,when you are not havesting your berries.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/scalesm.jpg",
@@ -104,7 +104,7 @@ const solutions = [
     { 
         problem: "Ranger ", 
         infestationimage: "./images/ranger-480EC.webp",
-        description: "Ranger® 480EC is a non-systemic contact and stomach insecticide for foliar and stem application that is active against a range of insects widely used  in controlling pests like scales,thrips,aphids,mealybugs and leafminers in crops like miraa, muguka,coffee,rice and fruit trees . It is also used as termiticide for termites in fruit trees.",
+        description: "Ranger® 480EC ( Chlorpyrifos 480 g/L) is a non-systemic contact and stomach insecticide for foliar and stem application that is active against a range of insects widely used  in controlling pests like scales,thrips,aphids,mealybugs and leafminers in crops like miraa, muguka,coffee,rice and fruit trees . It is also used as termiticide for termites in fruit trees.",
         solution: "Use Ranger 40mls plus Integra 3mls/20ltrs of water during the onset of infestation,when you are not havesting your berries.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/scalesm.jpg",
@@ -114,7 +114,7 @@ const solutions = [
     { 
         problem: "Lexus", 
         infestationimage: "images/Lexus-247SC.webp",
-        description: "Lexus® 247SC is broad spectrum systemic insecticide for control of scales,Leaf miners,berry borer,berry moth, aphids, whiteflies, diamond back moth, thrips and caterpillars on Coffee,Miraa,Muguka and Vegetables.",
+        description: "Lexus® 247SC (Lambda cyhalothrin 106 g/L, Thiamethoxam 141 g/L) is broad spectrum systemic insecticide for control of scales,Leaf miners,berry borer,berry moth, aphids, whiteflies, diamond back moth, thrips and caterpillars on Coffee,Miraa,Muguka and Vegetables.",
         solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water upon spotting cases of infestation.Alternate with Profile 30mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/whiteflies.webp",
@@ -124,7 +124,7 @@ const solutions = [
     { 
         problem: "Lexus ", 
         infestationimage: "images/Lexus-247SC.webp",
-        description: "Lexus® 247SC is broad spectrum systemic insecticide for control of scales,Leaf miners,berry borer,berry moth, aphids, whiteflies, diamond back moth, thrips and caterpillars on Coffee,Miraa,Muguka and Vegetables.",
+        description: "Lexus® 247SC (Lambda cyhalothrin 106 g/L, Thiamethoxam 141 g/L) is broad spectrum systemic insecticide for control of scales,Leaf miners,berry borer,berry moth, aphids, whiteflies, diamond back moth, thrips and caterpillars on Coffee,Miraa,Muguka and Vegetables.",
         solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water upon spotting cases of infestation.Alternate with Profile 30mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/whiteflies.webp",
@@ -134,7 +134,7 @@ const solutions = [
     { 
         problem: "Bazooka", 
         infestationimage: "images/Bazooka-2048x2048.webp",
-        description:"Bazooka® 18EC is an insecticide/miticide highly effective via contact and translaminar activities which is used to control pests like red spindermites,thrips and leafminers in ,miraa,muguka,fruits,vegetable and ornamental crops.",
+        description:"Bazooka® 18EC ( Abamectin 18 g/L) is an insecticide/miticide highly effective via contact and translaminar activities which is used to control pests like red spindermites,thrips and leafminers in ,miraa,muguka,fruits,vegetable and ornamental crops.",
         solution: "Spray 10mls/20ltrs plus Integra 3mls/20ltrs of water,for preventive and eradication actions.Alternate with Profile 30mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/redspidermites.jpg",
@@ -144,7 +144,7 @@ const solutions = [
     { 
         problem: "Bazooka ", 
         infestationimage: "images/Bazooka-2048x2048.webp",
-        description:"Bazooka® 18EC is an insecticide/miticide highly effective via contact and translaminar activities which is used to control pests like red spindermites,thrips and leafminers in ,miraa,muguka,fruits,vegetable and ornamental crops.",
+        description:"Bazooka® 18EC ( Abamectin 18 g/L) is an insecticide/miticide highly effective via contact and translaminar activities which is used to control pests like red spindermites,thrips and leafminers in ,miraa,muguka,fruits,vegetable and ornamental crops.",
         solution: "Spray 10mls/20ltrs plus Integra 3mls/20ltrs of water,for preventive and eradication actions.Alternate with Profile 30mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/redspidermites.jpg",
@@ -154,7 +154,7 @@ const solutions = [
     { 
         problem: "Alonze", 
         infestationimage: "./images/Alonze_50EC.webp",
-        description:"Alonze® 50EC is an insecticide, miticide, and nematicide highly effective through contact and translaminar activities which is used to control Spidermites, Thrips, Leafminers, and Nematodes in Miraa, Muguka, Fruits, Vegetables, and Ornamental Crops.",
+        description:"Alonze® 50EC (Abamectin 50 g/L) is an insecticide, miticide, and nematicide highly effective through contact and translaminar activities which is used to control Spidermites, Thrips, Leafminers, and Nematodes in Miraa, Muguka, Fruits, Vegetables, and Ornamental Crops.",
         solution: "Spray 5mls plus Integra 3mls/20ltrs of water,for preventive and eradication actions.Alternate with Profile 30mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/onion_thrips.webp",
@@ -164,7 +164,7 @@ const solutions = [
     { 
         problem: "Alonze ", 
         infestationimage: "./images/Alonze_50EC.webp",
-        description:"Alonze® 50EC is an insecticide, miticide, and nematicide highly effective through contact and translaminar activities which is used to control Spidermites, Thrips, Leafminers, and Nematodes in Miraa, Muguka, Fruits, Vegetables, and Ornamental Crops.",
+        description:"Alonze® 50EC (Abamectin 50 g/L) is an insecticide, miticide, and nematicide highly effective through contact and translaminar activities which is used to control Spidermites, Thrips, Leafminers, and Nematodes in Miraa, Muguka, Fruits, Vegetables, and Ornamental Crops.",
         solution: "Spray 5mls plus Integra 3mls/20ltrs of water,for preventive and eradication actions.Alternate with Profile 30mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/onion_thrips.webp",
@@ -184,7 +184,7 @@ const solutions = [
     { 
         problem: "Profile ", 
         infestationimage: "./images/Profile-.webp",
-        description:"Profile® 440EC is an enhanced contact and stomach action Insecticide for foliar and stem application and is active particularly against sucking and chewing pests with broad spectrum long residual activity widely used in agriculture for controlling pests like thrips,whiteflies,aphids and fruitflies in a broad range of edible crops like fruits,vegetables and ornamentals.",
+        description:"Profile® 440EC (Cypermethrin 40 g/L, Profenofos 400 g/L) is an enhanced contact and stomach action Insecticide for foliar and stem application and is active particularly against sucking and chewing pests with broad spectrum long residual activity widely used in agriculture for controlling pests like thrips,whiteflies,aphids and fruitflies in a broad range of edible crops like fruits,vegetables and ornamentals.",
         solution: "Spray 30mls/20ltrs plus Integra 3mls/20ltrs of water,for preventive and eradication actions.ALternate with Taurus 10gms/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/fruitfly.jpg",
@@ -194,7 +194,7 @@ const solutions = [
     { 
         problem: "Escort", 
         infestationimage: "./images/Escort.webp",
-        description:"Escort is a highly effective natural insecticide containing Emamectin benzoate that targets a wide range lepidopteran insect pests such as fall armyworms, caterpillars, tuta absoluta, thrips, spider mites and diamondback among others on wide range of agricultural crops.",
+        description:"Escort (Emamectin benzoate 19 g/L) is a highly effective natural insecticide containing Emamectin benzoate that targets a wide range lepidopteran insect pests such as fall armyworms, caterpillars, tuta absoluta, thrips, spider mites and diamondback among others on wide range of agricultural crops.",
         solution: "Spray 20mls-25mls/ plus Integra 3mls/20ltrs of water,for preventive and eradication actions. When controlling fallarmy worms spray during the evening hours for effective eradication.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/fallarmy.jpg",
@@ -205,7 +205,7 @@ const solutions = [
  { 
         problem: "Escort ", 
         infestationimage: "./images/Escort.webp",
-        description:"Escort is a highly effective natural insecticide containing Emamectin benzoate that targets a wide range lepidopteran insect pests such as fall armyworms, caterpillars, tuta absoluta, thrips, spider mites and diamondback among others on wide range of agricultural crops.",
+        description:"Escort (Emamectin benzoate 19 g/L) is a highly effective natural insecticide containing Emamectin benzoate that targets a wide range lepidopteran insect pests such as fall armyworms, caterpillars, tuta absoluta, thrips, spider mites and diamondback among others on wide range of agricultural crops.",
         solution: "Spray 20mls-25mls/ plus Integra 3mls/20ltrs of water,for preventive and eradication actions. When controlling fallarmy worms spray during the evening hours for effective eradication.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/fallarmy.jpg",
@@ -215,7 +215,7 @@ const solutions = [
     { 
         problem: "Pentagon", 
         infestationimage: "./images/Pentagon--2048x2048.webp",
-        description:"Pentagon® 50 EC is a highly active contact and ingestion insecticide active particularly against sucking and chewing insects and has long residual activity. It is widely used for controlling insect pests in a broad range of edible and ornamental crops.It has a PHI of three days hence perfect to use on vegetables.",
+        description:"Pentagon® 50 EC (Lambda cyhalothrin 50 g/L) is a highly active contact and ingestion insecticide active particularly against sucking and chewing insects and has long residual activity. It is widely used for controlling insect pests in a broad range of edible and ornamental crops.It has a PHI of three days hence perfect to use on vegetables.",
         solution: "Spray 10mls plus Integra 3mls/20ltrs of water,for preventive and eradication actions.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/kalespest.webp",
@@ -225,7 +225,7 @@ const solutions = [
     { 
         problem: "Taurus", 
         infestationimage: "./images/Taurus-2048x2048.webp",
-        description:"Taurus® 500SP is a powerful insecticide with a broad-spectrum control especially for sucking insects like whiteflies,aphids and thrips",
+        description:"Taurus® 500SP (Thiocyclam hydrogen oxalate 500 g/kg) is a powerful insecticide with a broad-spectrum control especially for sucking insects like whiteflies,aphids and thrips",
         solution: "Spray 10gms plus Integra 3mls/20ltrs of water,for preventive and eradication actions alternate with Profile 30mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/whiteflies melon.jpg",
@@ -236,7 +236,7 @@ const solutions = [
     { 
         problem: "Pentagon ", 
         infestationimage: "./images/Pentagon--2048x2048.webp",
-        description:"Pentagon® 50 EC is a highly active contact and ingestion insecticide active particularly against sucking and chewing insects and has long residual activity. It is widely used for controlling insect pests in a broad range of edible and ornamental crops.It has a PHI of three days hence perfect to use on vegetables.",
+        description:"Pentagon® 50 EC (Lambda cyhalothrin 50 g/L) is a highly active contact and ingestion insecticide active particularly against sucking and chewing insects and has long residual activity. It is widely used for controlling insect pests in a broad range of edible and ornamental crops.It has a PHI of three days hence perfect to use on vegetables.",
         solution: "Spray 10mls plus Integra 3mls/20ltrs of water,for preventive and eradication actions.Alternate with Kingcode 10mls/20ltrs",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/kalespest.webp",
@@ -246,7 +246,7 @@ const solutions = [
     { 
         problem: "Indoking", 
         infestationimage: "./images/Indoking-1L-2048x2048.webp",
-        description:"Indoking is  an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
+        description:"Indoking 300SC ( Indoxacarb 300g/L) is  an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
         solution: "Spray 3-5mls plus Integra 3mls/20ltrs of water,for prevention and eradication actions.Alternate with Occasion Star 3-5mls/20ltrs",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/tuta.jpg",
@@ -256,7 +256,7 @@ const solutions = [
     { 
         problem: "Indoking ", 
         infestationimage: "./images/Indoking-1L-2048x2048.webp",
-        description:"Indoking is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
+        description:"Indoking 300 SC ( Indoxacarb 300g/L) is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
         solution: "Spray 3-5mls plus Integra 3mls/20ltrs of water,for prevention and eradication actions.Alternate with Occasion Star 3-5mls/20ltrs",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/tuta.jpg",
@@ -266,7 +266,7 @@ const solutions = [
     { 
         problem: "Occasion star", 
         infestationimage: "./images/occasion-star.webp",
-        description:"Occasion star is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
+        description:"Occasion star 200 SC (Emamectin benzoate 40 g/L, Indoxacarb 160 g/L) is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
         solution: "Spray 3-5mls plus Integra 3mls/20ltrs of water,for prevention and eradication actions.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/ballwarm.jpg",
@@ -276,7 +276,7 @@ const solutions = [
     { 
         problem: "Occasion", 
         infestationimage: "./images/occasion-star.webp",
-        description:"Occasion star is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
+        description:"Occasion star 200 SC (Emamectin benzoate 40 g/L, Indoxacarb 160 g/L) is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
         solution: "Spray 3-5mls plus Integra 3mls/20ltrs of water,for prevention and eradication actions.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/ballwarm.jpg",
@@ -287,7 +287,7 @@ const solutions = [
     { 
         problem: "Occasion star ", 
         infestationimage: "./images/occasion-star.webp",
-        description:"Occasion star is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
+        description:"Occasion star 200 SC (Emamectin benzoate 40 g/L, Indoxacarb 160 g/L) is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
         solution: "Spray 3-5mls plus Integra 3mls/20ltrs of water,for prevention and eradication actions.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/ballwarm.jpg",
@@ -299,7 +299,17 @@ const solutions = [
     { 
         problem: "Absolute Star", 
         infestationimage: "images/Absolute-star-2048x2048.webp",
-        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
+        description:"Absolute Star 400SC (Azoxystrobin 250 g/L, Difenoconazole 150 g/L ) broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
+        solution: "For preventive and curative actions alternate Absolute star 10mls with,Trinity Gold 50gmsl/20ltrs of water.",
+        image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+    },
+    { 
+        problem: "Absolute Star ", 
+        infestationimage: "images/Absolute-star-2048x2048.webp",
+        description:"Absolute Star 400SC (Azoxystrobin 250 g/L, Difenoconazole 150 g/L ) broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
         solution: "For preventive and curative actions alternate Absolute star 10mls with,Trinity Gold 50gmsl/20ltrs of water.",
         image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -322,7 +332,7 @@ const solutions = [
         description:"Wembe® 200 SL (Glufosinate-Ammonium 200 g/l) is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses.",
         solution: "Spray 100mls/20ltrs of water.",
         image: "./images/weeds.jpeg",
-        sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields",
+        sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields.",
         availablepacksize:"1ltr",
         pricerange:"Ksh(2400-2600)"
     },
@@ -330,7 +340,7 @@ const solutions = [
     { 
         problem: "Absolute Star ", 
         infestationimage: "images/Absolute-star-2048x2048.webp",
-        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
+        description:"Absolute Star 400SC (Azoxystrobin 250 g/L, Difenoconazole 150 g/L ) broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
         solution: "For preventive and curative actions alternate Absolute star 10mls with,Trinity Gold 50gmsl/20ltrs of water.",
         image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -340,7 +350,7 @@ const solutions = [
     { 
         problem: "Trinity Gold", 
         infestationimage: "./images/Trinity-Gold.webp",
-        description:"Trinity Gold® 452WP is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
+        description:"Trinity Gold® 452WP (Copper Oxychloride 290 g/kg, Cymoxanil 42 g/kg, Mancozeb 120 g/kg) is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
         solution: "For preventive and curative actions alternate Trinity Gold 50gmsl/20ltrs of water with Absolute star 10mls.",
         image: "./images/Late-Blight-Tomatoes.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -350,7 +360,7 @@ const solutions = [
     { 
         problem: "Trinity Gold ", 
         infestationimage: "./images/Trinity-Gold.webp",
-        description:"Trinity Gold® 452WP is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
+        description:"Trinity Gold® 452WP (Copper Oxychloride 290 g/kg, Cymoxanil 42 g/kg, Mancozeb 120 g/kg) is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
         solution: "For preventive and curative actions alternate Trinity Gold 50gmsl/20ltrs of water with Absolute star 10mls.",
         image: "./images/Late-Blight-Tomatoes.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -360,7 +370,7 @@ const solutions = [
     { 
         problem: "Trinity", 
         infestationimage: "./images/Trinity-Gold.webp",
-        description:"Trinity Gold® 452WP is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
+        description:"Trinity Gold® 452WP (Copper Oxychloride 290 g/kg, Cymoxanil 42 g/kg, Mancozeb 120 g/kg) is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
         solution: "For preventive and curative actions alternate Trinity Gold 50gmsl/20ltrs of water with Absolute star 10mls.",
         image: "./images/Late-Blight-Tomatoes.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -371,7 +381,7 @@ const solutions = [
 { 
         problem: "Trinity ", 
         infestationimage: "./images/Trinity-Gold.webp",
-        description:"Trinity Gold® 452WP is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
+        description:"Trinity Gold® 452WP (Copper Oxychloride 290 g/kg, Cymoxanil 42 g/kg, Mancozeb 120 g/kg) is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
         solution: "For preventive and curative actions alternate Trinity Gold 50gmsl/20ltrs of water with Absolute star 10mls.",
         image: "./images/Late-Blight-Tomatoes.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -382,7 +392,7 @@ const solutions = [
     { 
         problem: "Souvenir", 
         infestationimage: "./images/Souvenir.png",
-        description:"SOUVENIR® 800 WDG is a broad spectrum protective fungicide/miticide with contact and vapor action for the control of powdery mildew and spider mites on roses, rust, angular leaf spot and anthracnose on French beans, downy mildew, powdery mildew and anthracnose on capsicum, early and late blight and spider mites on tomatoes, powdery mildew, purple blotch and rust on onions and powdery mildew on snow peas.",
+        description:"SOUVENIR® 800 WDG (Sulphur 800gms) is a broad spectrum protective fungicide/miticide with contact and vapor action for the control of powdery mildew and spider mites on roses, rust, angular leaf spot and anthracnose on French beans, downy mildew, powdery mildew and anthracnose on capsicum, early and late blight and spider mites on tomatoes, powdery mildew, purple blotch and rust on onions and powdery mildew on snow peas.",
         solution: "For preventive and curative actions alternate Souvenir 50gmsl/20ltrs of water with Absolute star 10mls.",
         image: "./images/beanrust.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -392,7 +402,7 @@ const solutions = [
     { 
         problem: "Souvenir ", 
         infestationimage: "./images/Souvenir.png",
-        description:"SOUVENIR® 800 WDG is a broad spectrum protective fungicide/miticide with contact and vapor action for the control of powdery mildew and spider mites on roses, rust, angular leaf spot and anthracnose on French beans, downy mildew, powdery mildew and anthracnose on capsicum, early and late blight and spider mites on tomatoes, powdery mildew, purple blotch and rust on onions and powdery mildew on snow peas.",
+        description:"SOUVENIR® 800 WDG (Sulphur 800gms) is a broad spectrum protective fungicide/miticide with contact and vapor action for the control of powdery mildew and spider mites on roses, rust, angular leaf spot and anthracnose on French beans, downy mildew, powdery mildew and anthracnose on capsicum, early and late blight and spider mites on tomatoes, powdery mildew, purple blotch and rust on onions and powdery mildew on snow peas.",
         solution: "For preventive and curative actions alternate Souvenir 50gmsl/20ltrs of water with Absolute star 10mls.",
         image: "./images/beanrust.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -403,7 +413,7 @@ const solutions = [
     { 
         problem: "Ransom", 
         infestationimage: "./images/Ransom-2048x2048.webp",
-        description:"Ransom® 600WP is an enhanced excellent systemic and contact fungicide with preventive and curative actions on a wide range of diseases, particularly powdery mildew and rusts on agricultural crops.",
+        description:"Ransom® 600WP (Carbendazim 570 g/kg, Triadimefon 30 g/kg) is an enhanced excellent systemic and contact fungicide with preventive and curative actions on a wide range of diseases, particularly powdery mildew and rusts on agricultural crops.",
         solution: "For preventive and curative actions alternate Ransom 10gmsl/20ltrs of water with Absolute star 10mls.",
         image: "./images/powerdery.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -413,7 +423,7 @@ const solutions = [
     { 
         problem: "Ransom ", 
         infestationimage: "./images/Ransom-2048x2048.webp",
-        description:"Ransom® 600WP is an enhanced excellent systemic and contact fungicide with preventive and curative actions on a wide range of diseases, particularly powdery mildew and rusts on agricultural crops.",
+        description:"Ransom® 600WP (Carbendazim 570 g/kg, Triadimefon 30 g/kg) is an enhanced excellent systemic and contact fungicide with preventive and curative actions on a wide range of diseases, particularly powdery mildew and rusts on agricultural crops.",
         solution: "For preventive and curative actions alternate Ransom 10gmsl/20ltrs of water with Absolute star 10mls.",
         image: "./images/powerdery.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -434,7 +444,7 @@ const solutions = [
     { 
         problem: "Chariot ", 
         infestationimage: "./images/Chariot-Greenlife.webp",
-        description:"Chariot® 500SC is a systemic fungicide with protective and curative action against various diseases like angular leafrust, early and late blight, rootrot,stemrot and dieback in agricultural crops.",
+        description:"Chariot® 500SC () is a systemic fungicide with protective and curative action against various diseases like angular leafrust, early and late blight, rootrot,stemrot and dieback in agricultural crops.",
         solution: "For preventive and curative actions alternate Chariot 10mls with,Trinity Gold 50gmsl/20ltrs of water.",
         image: "./images/rootrot.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -468,7 +478,7 @@ const solutions = [
     { 
         problem: "Greencop", 
         infestationimage: "images/Green-Cop.webp",
-        description:"Green Cop® 500WP is an excellent contact fungicide with protective action for the control of wide range of diseases particularly Botrytis, rust, Angular leaf spot, Early and Late blight, Coffee leaf rust, and Coffee berry disease (CBD).",
+        description:"Green Cop® 500WP (Copper Oxychloride 500 g/kg) is an excellent contact fungicide with protective action for the control of wide range of diseases particularly Botrytis, rust, Angular leaf spot, Early and Late blight, Coffee leaf rust, and Coffee berry disease CBD.",
         solution: "For preventive actions use 140gms/20ltrs of water during dry seasons, and tank mix 70gms with Katerina 50mls/20ltrs of water during cold seasons for preventive and curative actions.",
         image: "./images/leafrust.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -479,7 +489,7 @@ const solutions = [
     { 
         problem: "Green Copper", 
         infestationimage: "images/Green-Cop.webp",
-        description:"Green Cop® 500WP is an excellent contact fungicide with protective action for the control of wide range of diseases particularly Botrytis, rust, Angular leaf spot, Early and Late blight, Coffee leaf rust, and Coffee berry disease (CBD).",
+        description:"Green Cop® 500WP (Copper Oxychloride 500 g/kg) is an excellent contact fungicide with protective action for the control of wide range of diseases particularly Botrytis, rust, Angular leaf spot, Early and Late blight, Coffee leaf rust, and Coffee berry disease CBD.",
         solution: "For preventive actions use 140gms/20ltrs of water during dry seasons, and tank mix 70gms with Katerina 50mls/20ltrs of water during cold seasons for preventive and curative actions.",
         image: "./images/leafrust.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -489,7 +499,7 @@ const solutions = [
     { 
         problem: "Green Copper ", 
         infestationimage: "images/Green-Cop.webp",
-        description:"Green Cop® 500WP is an excellent contact fungicide with protective action for the control of wide range of diseases particularly Botrytis, rust, Angular leaf spot, Early and Late blight, Coffee leaf rust, and Coffee berry disease (CBD).",
+        description:"Green Cop® 500WP (Copper Oxychloride 500 g/kg) is an excellent contact fungicide with protective action for the control of wide range of diseases particularly Botrytis, rust, Angular leaf spot, Early and Late blight, Coffee leaf rust, and Coffee berry disease CBD.",
         solution: "For preventive actions use 140gms/20ltrs of water during dry seasons, and tank mix 70gms with Katerina 50mls/20ltrs of water during cold seasons for preventive and curative actions.",
         image: "./images/leafrust.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -499,7 +509,7 @@ const solutions = [
     { 
         problem: "Compliant", 
         infestationimage: "./images/compliant.webp",
-        description:"Compliant® 560SC is a contact and systemic fungicide for the control of various diseases in agricultural crops including coffee berry diseaes and leaf rust in coffee",
+        description:"Compliant® 560SC (Azoxystrobin 60 g/L, Chlorothalonil 500 g/L) is a contact and systemic fungicide for the control of various diseases in agricultural crops including coffee berry diseaes and leaf rust in coffee",
         solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/CBD.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
@@ -510,7 +520,7 @@ const solutions = [
     { 
         problem: "Compliant ", 
         infestationimage: "./images/compliant.webp",
-        description:"Compliant® 560SC is a contact and systemic fungicide for the control of various diseases in agricultural crops including coffee berry diseaes and leaf rust in coffee",
+        description:"Compliant® 560SC (Azoxystrobin 60 g/L, Chlorothalonil 500 g/L) is a contact and systemic fungicide for the control of various diseases in agricultural crops including coffee berry diseaes and leaf rust in coffee",
         solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/CBD.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
@@ -580,7 +590,7 @@ const solutions = [
     { 
         problem: "Lavender Total", 
         infestationimage: "images/Lavender-total-combine-2048x2048.webp",
-        description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during all the stages of the crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        description:"Lavender total NPK (24:24:18) plus trace elements  is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "./images/maize.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
@@ -591,7 +601,7 @@ const solutions = [
     { 
         problem: "Lavender Total ", 
         infestationimage: "images/Lavender-total-combine-2048x2048.webp",
-        description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        description:"Lavender total NPK (24:24:18) plus trace elements  is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "./images/maize.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
@@ -601,7 +611,7 @@ const solutions = [
     { 
         problem: "Lavender", 
         infestationimage: "images/Lavender-total-combine-2048x2048.webp",
-        description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        description:"Lavender total NPK (24:24:18) plus trace elements  is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "./images/maize.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
@@ -611,7 +621,7 @@ const solutions = [
     { 
         problem: "Lavender ", 
         infestationimage: "images/Lavender-total-combine-2048x2048.webp",
-        description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        description:"Lavender total NPK (24:24:18) plus trace elements  is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "./images/maize.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
@@ -621,7 +631,7 @@ const solutions = [
     { 
         problem: "Goldchance Fruit & Flower", 
         infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
-        description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
+        description:"Goldchance Super Flowers & Fruits® NPK 12.5.45 is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
         solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water.",
         image: "./images/peper goldchance.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
@@ -632,7 +642,7 @@ const solutions = [
     { 
         problem: "Goldchance", 
         infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
-        description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
+        description:"Goldchance Super Flowers & Fruits® NPK 12.5.45 is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
         solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water during flowering and fruiting stages.",
         image: "./images/peper goldchance.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
@@ -642,7 +652,7 @@ const solutions = [
     { 
         problem: "Goldchance ", 
         infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
-        description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
+        description:"Goldchance Super Flowers & Fruits® NPK 12.5.45 is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
         solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water during flowering and fruiting stages.",
         image: "./images/peper goldchance.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
@@ -652,7 +662,7 @@ const solutions = [
     { 
         problem: "Goldchance multi K", 
         infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
-        description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
+        description:"Goldchance Super Flowers & Fruits® NPK 12.5.45 is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
         solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water during flowering and fruiting stages.",
         image: "./images/peper goldchance.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
@@ -663,7 +673,7 @@ const solutions = [
     { 
         problem: "Humipower", 
         infestationimage: "images/Humipower-bag-2048x2048.webp",
-        description:"Humipower is a water-soluble soil amendment and blend that contains potassium, humates and fulvic acid in granular form. It is used in agricultural, horticultural and field crops, landscaping lawns, pot plants as well as gardening. It is used both in the soil as an amendment and as fertilizer blend to enhance nutrient uptake, improves water holding capacity, increases aeration, improves tilth and workability and stimulate the activity of the beneficial microorganisms.",
+        description:"Humipower (Fulvic Acid 5%, Humic Acid 55%, Soluble Potassium(K₂O) 10%) is a water-soluble soil amendment and blend that contains potassium, humates and fulvic acid in granular form. It is used in agricultural, horticultural and field crops, landscaping lawns, pot plants as well as gardening. It is used both in the soil as an amendment and as fertilizer blend to enhance nutrient uptake, improves water holding capacity, increases aeration, improves tilth and workability and stimulate the activity of the beneficial microorganisms.",
         solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
         image: "./images/fertilizer.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
@@ -676,7 +686,7 @@ const solutions = [
 { 
         problem: "Humipower ", 
         infestationimage: "images/Humipower-bag-2048x2048.webp",
-        description:"Humipower is a water-soluble soil amendment and blend that contains potassium, humates and fulvic acid in granular form. It is used in agricultural, horticultural and field crops, landscaping lawns, pot plants as well as gardening. It is used both in the soil as an amendment and as fertilizer blend to enhance nutrient uptake, improves water holding capacity, increases aeration, improves tilth and workability and stimulate the activity of the beneficial microorganisms.",
+        description:"Humipower (Fulvic Acid 5%, Humic Acid 55%, Soluble Potassium(K₂O) 10%) is a water-soluble soil amendment and blend that contains potassium, humates and fulvic acid in granular form. It is used in agricultural, horticultural and field crops, landscaping lawns, pot plants as well as gardening. It is used both in the soil as an amendment and as fertilizer blend to enhance nutrient uptake, improves water holding capacity, increases aeration, improves tilth and workability and stimulate the activity of the beneficial microorganisms.",
         solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
         image: "./images/fertilizer.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
@@ -687,7 +697,7 @@ const solutions = [
     { 
         problem: "Integra", 
         infestationimage:"images/Integra (1).webp",
-        solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
+        solution: "Integra® (Polyalkyleneoxide modified Heptamethyl trisiloxane 800 g/L minimum) is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
         image: "images/stickersp.jpg",
         sprayingintervals:"Incoporate it every time you are doing spraying of whatever kind",
         availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
@@ -697,7 +707,7 @@ const solutions = [
     { 
         problem: "Integra ", 
         infestationimage:"images/Integra (1).webp",
-        solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
+        solution: "Integra® (Polyalkyleneoxide modified Heptamethyl trisiloxane 800 g/L minimum) is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
         image: "images/stickersp.jpg",
         sprayingintervals:"Incoporate it every time you are doing spraying of whatever kind",
         availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
@@ -706,7 +716,7 @@ const solutions = [
     { 
         problem: "Optimizer", 
         infestationimage: "images/Optimizer-new-2048x2048.webp",
-        description:"Optimizer® is a pure natural fermented liquid seaweed fertilizer enriched with NPK fertilizer for use in coffee, vegetables, fruits, ornamentals and cereals for quality and optimum yields.It is designed to help the plant to counter transplanting shock in young crops,It can be applied as a foliar spray or through drenching/ drip irrigation and its suitable for use in all vegetables, flowers, coffee, cereals, potatoes, and fruit trees as mangoes, avocados, strawberries, melon, and grapes among others.",
+        description:"Optimizer® (Pure ascophyllium nodosum seaweed extract: 30% w/w, Total Nitrogen & Phosphorus & Potassium: 12%) is a pure natural fermented liquid seaweed fertilizer enriched with NPK fertilizer for use in coffee, vegetables, fruits, ornamentals and cereals for quality and optimum yields.It is designed to help the plant to counter transplanting shock in young crops,It can be applied as a foliar spray or through drenching/ drip irrigation and its suitable for use in all vegetables, flowers, coffee, cereals, potatoes, and fruit trees as mangoes, avocados, strawberries, melon, and grapes among others.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "./images/MANGO opt.jpg",
         sprayingintervals:"Incoporate it in all your sprays especially when the crop is under any kind of stress.",
@@ -718,7 +728,7 @@ const solutions = [
 { 
         problem: "Optimizer ", 
         infestationimage: "images/Optimizer-new-2048x2048.webp",
-        description:"Optimizer® is a pure natural fermented liquid seaweed fertilizer enriched with NPK fertilizer for use in coffee, vegetables, fruits, ornamentals and cereals for quality and optimum yields.It is designed to help the plant to counter transplanting shock in young crops,It can be applied as a foliar spray or through drenching/ drip irrigation and its suitable for use in all vegetables, flowers, coffee, cereals, potatoes, and fruit trees as mangoes, avocados, strawberries, melon, and grapes among others.",
+        description:"Optimizer® (Pure ascophyllium nodosum seaweed extract: 30% w/w, Total Nitrogen & Phosphorus & Potassium: 12%) is a pure natural fermented liquid seaweed fertilizer enriched with NPK fertilizer for use in coffee, vegetables, fruits, ornamentals and cereals for quality and optimum yields.It is designed to help the plant to counter transplanting shock in young crops,It can be applied as a foliar spray or through drenching/ drip irrigation and its suitable for use in all vegetables, flowers, coffee, cereals, potatoes, and fruit trees as mangoes, avocados, strawberries, melon, and grapes among others.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "./images/MANGO opt.jpg",
         sprayingintervals:"Incoporate it in all your sprays especially when the crop is under any kind of stress.",
@@ -740,7 +750,7 @@ const solutions = [
     { 
         problem: "Jambo Clean ", 
         infestationimage: "images/Jambo-Clean.webp",
-        description:"Jambo Clean® is a combination of cleaner and fertilizer, which removes all sooty moulds, honeydew, dust, grease and other contaminants off leaf surface, nourishes crops by supplying phosphorus and nitrogen, necessitates maximum light exposure for photosynthesis, eliminates other predisposing factors and consequently maintains healthier plant all year round.",
+        description:"Jambo Clean® (Ammoniacal nitrogen 1.5%), Total nitrogen 10.0% (including Ureic nitrogen 8.5%, Water soluble phosphorus pentoxide (P2O5) 8.2%) is a combination of cleaner and fertilizer, which removes all sooty moulds, honeydew, dust, grease and other contaminants off leaf surface, nourishes crops by supplying phosphorus and nitrogen, necessitates maximum light exposure for photosynthesis, eliminates other predisposing factors and consequently maintains healthier plant all year round.",
         solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/sooty.jpg",
