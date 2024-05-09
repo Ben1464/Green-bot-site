@@ -898,7 +898,68 @@ const solutions = [
         availablepacksize:"16ltrs,18ltrs",
         pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
     },
-
+    
+    { 
+        problem: "Kungunil", 
+        infestationimage: "./images/Kungu-Nil.webp",
+        description:"Kungu Nil® 200SL is a highly effective, systemic insecticide with high residual effect, effective for control of bedbugs in domestic premises, public buildings and industrial places.",
+        solution: "Spray 10mls/ltrs of water targeting those areas that are prone to bedbugs",
+        sprayingintervals: "Reapeat spray after 10 days to eradicate the completly.",
+        image: "./images/bedbugs.jpg",
+        availablepacksize:"10mls,50mls,100mls,1ltr",
+        pricerange:"Ksh( 100-150),Ksh (300-350),Ksh (550-600),Ksh (4400-4600)"
+    },
+    { 
+        problem: "Kungunil ", 
+        infestationimage: "./images/Kungu-Nil.webp",
+        description:"Kungu Nil® 200SL is a highly effective, systemic insecticide with high residual effect, effective for control of bedbugs in domestic premises, public buildings and industrial places.",
+        solution: "Spray 10mls/ltrs of water targeting those areas that are prone to bedbugs",
+        sprayingintervals: "Reapeat spray after 10 days to eradicate the completly.",
+        image: "./images/bedbugs.jpg",
+        availablepacksize:"10mls,50mls,100mls,1ltr",
+        pricerange:"Ksh( 100-150),Ksh (300-350),Ksh (550-600),Ksh (4400-4600)"
+    },
+    { 
+        problem: "Navigator", 
+        infestationimage: "./images/Navigator.webp",
+        description:"Navigator® 100SC is a professional public health care synthetic pyrethroid insecticide which controls a wide range of insects especially cockroaches, mosquitoes and bedbugs in domestic premises, public buildings and industrial places",
+        solution: "Spray 10mls/ltrs of water targeting those areas that are prone to cockroaches",
+        sprayingintervals: "Reapeat spray after 10 days to eradicate the completly.",
+        image: "./images/corcorotch.jpg",
+        availablepacksize:"20mls,50mls,1ltr",
+        pricerange:"Ksh(150-200),Ksh (350-450),Ksh (4800-5000)"
+    },
+    { 
+        problem: "Navigator ", 
+        infestationimage: "./images/Navigator.webp",
+        description:"Navigator® 100SC is a professional public health care synthetic pyrethroid insecticide which controls a wide range of insects especially cockroaches, mosquitoes and bedbugs in domestic premises, public buildings and industrial places",
+        solution: "Spray 10mls/ltrs of water targeting those areas that are prone to cockroaches",
+        sprayingintervals: "Reapeat spray after 10 days to eradicate the completly.",
+        image: "./images/corcorotch.jpg",
+        availablepacksize:"20mls,50mls,1ltr",
+        pricerange:"Ksh(150-200),Ksh (350-450),Ksh (4800-5000)"
+    },
+    { 
+        problem: "Panthenon", 
+        infestationimage: "./images/Panthenon.webp",
+        description:"Panthenon® 100CS is a broad spectrum pyrethroid public health insecticide for the control of domestic pests like mosquitoes, bedbugs, cockroaches, ticks and other biting insects.",
+        solution: "Spray 6mls/ltrs of water targeting those areas that are prone to mosquitoes, dark corners and areas likely to be hiding places.",
+        sprayingintervals: "Reapeat spray after 6 months.",
+        image: "./images/Mosquito_on_human_skin.jpg",
+        availablepacksize:"10mls,62.5mls,1ltr",
+        pricerange:"Ksh(200-250),Ksh (600-700),Ksh (7600-7800)"
+    }, 
+    { 
+        problem: "Panthenon ", 
+        infestationimage: "./images/Panthenon.webp",
+        description:"Panthenon® 100CS is a broad spectrum pyrethroid public health insecticide for the control of domestic pests like mosquitoes, bedbugs, cockroaches, ticks and other biting insects.",
+        solution: "Spray 6mls/ltrs of water targeting those areas that are prone to mosquitoes, dark corners and areas likely to be hiding places.",
+        sprayingintervals: "Reapeat spray after 6 months.",
+        image: "./images/Mosquito_on_human_skin.jpg",
+        availablepacksize:"10mls,62.5mls,1ltr",
+        pricerange:"Ksh(200-250),Ksh (600-700),Ksh (7600-7800)"
+    }, 
+    
 ]
 
 function searchSolutions() {
