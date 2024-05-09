@@ -739,7 +739,7 @@ const solutions = [
     { 
         problem: "Jambo Clean", 
         infestationimage: "images/Jambo-Clean.webp",
-        description:"Jambo Clean® is a combination of cleaner and fertilizer, which removes all sooty moulds, honeydew, dust, grease and other contaminants off leaf surface, nourishes crops by supplying phosphorus and nitrogen, necessitates maximum light exposure for photosynthesis, eliminates other predisposing factors and consequently maintains healthier plant all year round.",
+        description:"Jambo Clean® (Ammoniacal nitrogen 1.5%), Total nitrogen 10.0% (including Ureic nitrogen 8.5%, Water soluble phosphorus pentoxide (P2O5) 8.2%) is a combination of cleaner and fertilizer, which removes all sooty moulds, honeydew, dust, grease and other contaminants off leaf surface, nourishes crops by supplying phosphorus and nitrogen, necessitates maximum light exposure for photosynthesis, eliminates other predisposing factors and consequently maintains healthier plant all year round.",
         solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/sooty.jpg",
