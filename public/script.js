@@ -274,6 +274,17 @@ const solutions = [
         pricerange:"Ksh (550-600),Ksh (1100-1200),Ksh (1800-2000),Ksh (4800-5000),Ksh (9600-10000), Ksh (19700-20900)"
     },
     { 
+        problem: "Occasion", 
+        infestationimage: "./images/occasion-star.webp",
+        description:"Occasion star is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
+        solution: "Spray 3-5mls plus Integra 3mls/20ltrs of water,for prevention and eradication actions.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/ballwarm.jpg",
+        availablepacksize:"25mls,50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh (550-600),Ksh (1100-1200),Ksh (1800-2000),Ksh (4800-5000),Ksh (9600-10000), Ksh (19700-20900)"
+    },
+
+    { 
         problem: "Occasion star ", 
         infestationimage: "./images/occasion-star.webp",
         description:"Occasion star is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM and fall armyworms on a wide range of crops",
@@ -825,7 +836,7 @@ const solutions = [
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray",
         image: "images/Gstar18.jpg",
-        availablepacksize:"16ltrs,18ltrs",
+        availablepacksize:"16l<main>trs,18ltrs",
         pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
     },
     { 
@@ -834,7 +845,7 @@ const solutions = [
         description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray",
-        image: "images/Gstar18.jpg",
+        image: "images/Gstar18<main>.jpg",
         availablepacksize:"16ltrs,18ltrs",
         pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
     },
