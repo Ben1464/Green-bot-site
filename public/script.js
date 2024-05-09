@@ -970,6 +970,7 @@ const solutions = [
         pricerange:"Ksh(150-200),Ksh (300-350),Ksh (450-500),Ksh (1800-2000)"
     },
 
+
 ]
 
 function searchSolutions() {
