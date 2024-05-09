@@ -306,6 +306,26 @@ const solutions = [
         availablepacksize:"50mls,100mls,250mls,1ltr.",
         pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
     },
+    { 
+        problem: "Wembe", 
+        infestationimage: "./images/Wembe-200-SL-2048x2048 (1).webp",
+        description:"Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses.",
+        solution: "Spray 100mls/20ltrs of water.",
+        image: "./images/weeds.jpeg",
+        sprayingintervals: "Spary when the soil is moist for more efficacy.",
+        availablepacksize:"1ltr",
+        pricerange:"Ksh(2400-24600)"
+    },
+    { 
+        problem: "Wembe", 
+        infestationimage: "./images/Wembe-200-SL-2048x2048 (1).webp",
+        description:"Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses.",
+        solution: "Spray 100mls/20ltrs of water.",
+        image: "./images/weeds.jpeg",
+        sprayingintervals: "Spary when the soil is moist for more efficacy.",
+        availablepacksize:"1ltr",
+        pricerange:"Ksh(2400-24600)"
+    },
 
     { 
         problem: "Absolute Star ", 
