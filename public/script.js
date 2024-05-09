@@ -312,7 +312,7 @@ const solutions = [
         description:"Wembe® 200 SL (Glufosinate-Ammonium 200 g/l) is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses.",
         solution: "Spray 100mls/20ltrs of water.",
         image: "./images/weeds.jpeg",
-        sprayingintervals: "Spary when the soil is moist for more efficacy. it is non selective so ensure zero contact with the crop",
+        sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields",
         availablepacksize:"1ltr",
         pricerange:"Ksh(2400-24600)"
     },
@@ -322,9 +322,9 @@ const solutions = [
         description:"Wembe® 200 SL (Glufosinate-Ammonium 200 g/l) is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses.",
         solution: "Spray 100mls/20ltrs of water.",
         image: "./images/weeds.jpeg",
-        sprayingintervals: "Spary when the soil is moist for more efficacy.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields",
         availablepacksize:"1ltr",
-        pricerange:"Ksh(2400-24600)"
+        pricerange:"Ksh(2400-2600)"
     },
 
     { 
