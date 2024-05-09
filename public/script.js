@@ -964,7 +964,7 @@ const solutions = [
         infestationimage: "./images/Undertaker.webp",
         description:"Undertaker® 480EC is a broad spectrum termiticide with contact, fumigant and stomach actions, used on timber, wood buildings and constructions, concrete slabs, termites’ nests and trees to control termites.",
         solution: "Use 20mls/ltrs of water.",
-        sprayingintervals: "Reapeat spray after 10 days to eradicate the completly.",
+        sprayingintervals: "Reapeat after spotting termites.",
         image: "./images/termites.jpg",
         availablepacksize:"50mls,100mls,250mls,1ltr",
         pricerange:"Ksh(150-200),Ksh (300-350),Ksh (450-500),Ksh (1800-2000)"
