@@ -1011,7 +1011,69 @@ const solutions = [
         pricerange:"Ksh(150-200),Ksh (300-350),Ksh (450-500),Ksh (1800-2000)"
     },
 
+    { 
+        problem: "Catapult", 
+        infestationimage: "./images/catapult_480sl.webp",
+        description:"Catapult® 480SL is a systematic post-emergence non-selective herbicide for control of virtually all annual and perennial weeds.",
+        solution: "Use 200mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields.",
+        image: "./images/dryweeds.webp",
+        availablepacksize:"1ltr,5ltrs,20ltrs",
+        pricerange:"Ksh(700-750),Ksh (3500-3600),Ksh (13800-14000)"
+    },
+    { 
+        problem: "Catapult ", 
+        infestationimage: "./images/catapult_480sl.webp",
+        description:"Catapult® 480SL is a systematic post-emergence non-selective herbicide for control of virtually all annual and perennial weeds.",
+        solution: "Use 200mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields.",
+        image: "./images/dryweeds.webp",
+        availablepacksize:"1ltr,5ltrs,20ltrs",
+        pricerange:"Ksh(700-750),Ksh (3500-3600),Ksh (13800-14000)"
+    },
+    { 
+        problem: "Hurricane", 
+        infestationimage: "./images/Hurricane-512x512.png",
+        description:" Hurricane is very fast-acting broad spectrum non-selective herbicide with enhanced contact action which controls post-emergence broadleaf and grass weeds",
+        solution: "Use 200mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields.",
+        image: "./images/dryweeds.webp",
+        availablepacksize:"1ltr,5ltrs,20ltrs",
+        pricerange:"Ksh(750-800),Ksh (3800-4000),Ksh (15000-15500)"
+    },
+    { 
+        problem: "Hurricane ", 
+        infestationimage: "./images/Hurricane-512x512.png",
+        description:" Hurricane is very fast-acting broad spectrum non-selective herbicide with enhanced contact action which controls post-emergence broadleaf and grass weeds.",
+        solution: "Use 200mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields.",
+        image: "./images/dryweeds.webp",
+        availablepacksize:"1ltr,5ltrs,20ltrs",
+        pricerange:"Ksh(750-800),Ksh (3800-4000),Ksh (15000-15500)"
+    },
+    { 
+        problem: "Agromine", 
+        infestationimage: "./images/agromine_860sl-1.webp",
+        description:"Agromine® 860SL (2, 4 - D Amine salt 860 g/L) is a broad spectrum selective systemic herbicide for the control of post-emergence broadleaf weeds in maize, rice and wheat fields and non-cropped areas like lawns.",
+        solution: "Use 150mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields.",
+        image: "./images/dryweeds.webp",
+        availablepacksize:"1ltr,5ltrs,20ltrs",
+        pricerange:"Ksh(600-650),Ksh (2700-2800),Ksh (10000-10500)"
+    },
+    { 
+        problem: "Agromine ", 
+        infestationimage: "./images/agromine_860sl-1.webp",
+        description:"Agromine® 860SL (2, 4 - D Amine salt 860 g/L) is a broad spectrum selective systemic herbicide for the control of post-emergence broadleaf weeds in maize, rice and wheat fields and non-cropped areas like lawns.",
+        solution: "Use 150mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields.",
+        image: "./images/dryweeds.webp",
+        availablepacksize:"1ltr,5ltrs,20ltrs",
+        pricerange:"Ksh(600-650),Ksh (2700-2800),Ksh (10000-10500)"
+    },
 
+
+    
 ]
 
 function searchSolutions() {
