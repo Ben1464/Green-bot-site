@@ -316,6 +316,27 @@ const solutions = [
         availablepacksize:"50mls,100mls,250mls,1ltr.",
         pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
     },
+
+    { 
+        problem: "Katerina", 
+        infestationimage: "./images/Katerina.webp",
+        description:"Katerina® 720SC (Chlorothalonil 720 g/L) is an excellent contact fungicide for the preventative action on a wide range of diseases particularly downy mildew and botrytis on roses and squash, early and late blight on tomatoes, and coffee berry disease (CBD) on coffee.",
+        solution: "For preventive and curative actions alternate Katerina 70mls with,Absolute star 10mls/20ltrs of water.",
+        image: "./images/leafrust.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(750-800),Ksh(1500-1600)."
+    },
+    { 
+        problem: "Katerina ", 
+        infestationimage: "./images/Katerina.webp",
+        description:"Katerina® 720SC (Chlorothalonil 720 g/L) is an excellent contact fungicide for the preventative action on a wide range of diseases particularly downy mildew and botrytis on roses and squash, early and late blight on tomatoes, and coffee berry disease (CBD) on coffee.",
+        solution: "For preventive and curative actions alternate Katerina 70mls with,Absolute star 10mls/20ltrs of water.",
+        image: "./images/leafrust.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(750-800),Ksh(1500-1600)."
+    },
     { 
         problem: "Wembe ", 
         infestationimage: "./images/Wembe-200-SL-2048x2048 (1).webp",
@@ -357,6 +378,48 @@ const solutions = [
         availablepacksize:"50gms,100gms,250gms,500gms,1kg,5kgs.",
         pricerange:"Ksh(150-200),Ksh(200-250),Ksh(450-500),Ksh(850-900),Ksh(1650-1750),Ksh (7600-7800)."
     },
+    { 
+        problem: "President Gold", 
+        infestationimage: "./images/PRESIDEND-GOLD-25-1kg--2048x2048.webp",
+        description:"President Gold® 20DP is an excellent broad-spectrum post-harvest grains storage dusting powder insecticide for control of Larger grain borer (Osama), weevil and Red flour beetle on stored grains and pulses.",
+        solution: "Mix 50gms/90kgs of dry cereals.",
+        image: "./images/cereals.jpg",
+        sprayingintervals: "Do not apply on harvested un-threshed produce or cereal and pulse. After harvest, thresh or remove the kernels immediately, and protect the kernels with President Gold 20DP without any delay.",
+        availablepacksize:"50gms,100gms,250gms,500gms,1kg,25kgs.",
+        pricerange:"Ksh(100-150),Ksh(200-250),Ksh(400-450),Ksh(700-800),Ksh(1200-1300),Ksh (21800-22000)."
+    },
+
+    { 
+        problem: "President Gold ", 
+        infestationimage: "./images/PRESIDEND-GOLD-25-1kg--2048x2048.webp",
+        description:"President Gold® 20DP is an excellent broad-spectrum post-harvest grains storage dusting powder insecticide for control of Larger grain borer (Osama), weevil and Red flour beetle on stored grains and pulses.",
+        solution: "Mix 50gms/90kgs of dry cereals.",
+        image: "./images/cereals.jpg",
+        sprayingintervals: "Do not apply on harvested un-threshed produce or cereal and pulse. After harvest, thresh or remove the kernels immediately, and protect the kernels with President Gold 20DP without any delay.",
+        availablepacksize:"50gms,100gms,250gms,500gms,1kg,25kgs.",
+        pricerange:"Ksh(100-150),Ksh(200-250),Ksh(400-450),Ksh(700-800),Ksh(1200-1300),Ksh (21800-22000)."
+    },
+    { 
+        problem: "President", 
+        infestationimage: "./images/PRESIDEND-GOLD-25-1kg--2048x2048.webp",
+        description:"President Gold® 20DP is an excellent broad-spectrum post-harvest grains storage dusting powder insecticide for control of Larger grain borer (Osama), weevil and Red flour beetle on stored grains and pulses.",
+        solution: "Mix 50gms/90kgs of dry cereals.",
+        image: "./images/cereals.jpg",
+        sprayingintervals: "Do not apply on harvested un-threshed produce or cereal and pulse. After harvest, thresh or remove the kernels immediately, and protect the kernels with President Gold 20DP without any delay.",
+        availablepacksize:"50gms,100gms,250gms,500gms,1kg,25kgs.",
+        pricerange:"Ksh(100-150),Ksh(200-250),Ksh(400-450),Ksh(700-800),Ksh(1200-1300),Ksh (21800-22000)."
+    },
+    { 
+        problem: "President ", 
+        infestationimage: "./images/PRESIDEND-GOLD-25-1kg--2048x2048.webp",
+        description:"President Gold® 20DP is an excellent broad-spectrum post-harvest grains storage dusting powder insecticide for control of Larger grain borer (Osama), weevil and Red flour beetle on stored grains and pulses.",
+        solution: "Mix 50gms/90kgs of dry cereals.",
+        image: "./images/cereals.jpg",
+        sprayingintervals: "Do not apply on harvested un-threshed produce or cereal and pulse. After harvest, thresh or remove the kernels immediately, and protect the kernels with President Gold 20DP without any delay.",
+        availablepacksize:"50gms,100gms,250gms,500gms,1kg,25kgs.",
+        pricerange:"Ksh(100-150),Ksh(200-250),Ksh(400-450),Ksh(700-800),Ksh(1200-1300),Ksh (21800-22000)."
+    },
+
     { 
         problem: "Trinity Gold ", 
         infestationimage: "./images/Trinity-Gold.webp",
@@ -943,7 +1006,7 @@ const solutions = [
     { 
         problem: "Kungunil", 
         infestationimage: "./images/Kungu-Nil.webp",
-        description:"Kungu Nil® 200SL is a highly effective, systemic insecticide with high residual effect, effective for control of bedbugs in domestic premises, public buildings and industrial places.",
+        description:"Kungu Nil® 200SL (Imidacloprid 200 g/L) is a highly effective, systemic insecticide with high residual effect, effective for control of bedbugs in domestic premises, public buildings and industrial places.",
         solution: "Spray 10mls/ltrs of water targeting those areas that are prone to bedbugs",
         sprayingintervals: "Reapeat spray after 10 days to eradicate the completly.",
         image: "./images/bedbugs.jpg",
@@ -953,7 +1016,7 @@ const solutions = [
     { 
         problem: "Kungunil ", 
         infestationimage: "./images/Kungu-Nil.webp",
-        description:"Kungu Nil® 200SL is a highly effective, systemic insecticide with high residual effect, effective for control of bedbugs in domestic premises, public buildings and industrial places.",
+        description:"Kungu Nil® 200SL (Imidacloprid 200 g/L) is a highly effective, systemic insecticide with high residual effect, effective for control of bedbugs in domestic premises, public buildings and industrial places.",
         solution: "Spray 10mls/ltrs of water targeting those areas that are prone to bedbugs",
         sprayingintervals: "Reapeat spray after 10 days to eradicate the completly.",
         image: "./images/bedbugs.jpg",
@@ -963,7 +1026,7 @@ const solutions = [
     { 
         problem: "Navigator", 
         infestationimage: "./images/Navigator.webp",
-        description:"Navigator® 100SC is a professional public health care synthetic pyrethroid insecticide which controls a wide range of insects especially cockroaches, mosquitoes and bedbugs in domestic premises, public buildings and industrial places",
+        description:"Navigator® 100SC ( Alphacypermethrin 100 g/l) is a professional public health care synthetic pyrethroid insecticide which controls a wide range of insects especially cockroaches, mosquitoes and bedbugs in domestic premises, public buildings and industrial places",
         solution: "Spray 10mls/ltrs of water targeting those areas that are prone to cockroaches",
         sprayingintervals: "Reapeat spray after 10 days to eradicate the completly.",
         image: "./images/corcorotch.jpg",
@@ -973,7 +1036,7 @@ const solutions = [
     { 
         problem: "Navigator ", 
         infestationimage: "./images/Navigator.webp",
-        description:"Navigator® 100SC is a professional public health care synthetic pyrethroid insecticide which controls a wide range of insects especially cockroaches, mosquitoes and bedbugs in domestic premises, public buildings and industrial places",
+        description:"Navigator® 100SC ( Alphacypermethrin 100 g/l) is a professional public health care synthetic pyrethroid insecticide which controls a wide range of insects especially cockroaches, mosquitoes and bedbugs in domestic premises, public buildings and industrial places",
         solution: "Spray 10mls/ltrs of water targeting those areas that are prone to cockroaches",
         sprayingintervals: "Reapeat spray after 10 days to eradicate the completly.",
         image: "./images/corcorotch.jpg",
@@ -983,7 +1046,7 @@ const solutions = [
     { 
         problem: "Panthenon", 
         infestationimage: "./images/Panthenon.webp",
-        description:"Panthenon® 100CS is a broad spectrum pyrethroid public health insecticide for the control of domestic pests like mosquitoes, bedbugs, cockroaches, ticks and other biting insects.",
+        description:"Panthenon® 100CS (Lambda cyhalothrin 100 g/L) is a broad spectrum pyrethroid public health insecticide for the control of domestic pests like mosquitoes, bedbugs, cockroaches, ticks and other biting insects.",
         solution: "Spray 6mls/ltrs of water targeting those areas that are prone to mosquitoes, dark corners and areas likely to be hiding places.",
         sprayingintervals: "Reapeat spray after 6 months.",
         image: "./images/Mosquito_on_human_skin.jpg",
@@ -993,7 +1056,7 @@ const solutions = [
     { 
         problem: "Panthenon ", 
         infestationimage: "./images/Panthenon.webp",
-        description:"Panthenon® 100CS is a broad spectrum pyrethroid public health insecticide for the control of domestic pests like mosquitoes, bedbugs, cockroaches, ticks and other biting insects.",
+        description:"Panthenon® 100CS (Lambda cyhalothrin 100 g/L) is a broad spectrum pyrethroid public health insecticide for the control of domestic pests like mosquitoes, bedbugs, cockroaches, ticks and other biting insects.",
         solution: "Spray 6mls/ltrs of water targeting those areas that are prone to mosquitoes, dark corners and areas likely to be hiding places.",
         sprayingintervals: "Reapeat spray after 6 months.",
         image: "./images/Mosquito_on_human_skin.jpg",
@@ -1003,7 +1066,7 @@ const solutions = [
     { 
         problem: "Undertaker", 
         infestationimage: "./images/Undertaker.webp",
-        description:"Undertaker® 480EC is a broad spectrum termiticide with contact, fumigant and stomach actions, used on timber, wood buildings and constructions, concrete slabs, termites’ nests and trees to control termites.",
+        description:"Undertaker® 480EC (Chlorpyrifos 480 g/L) is a broad spectrum termiticide with contact, fumigant and stomach actions, used on timber, wood buildings and constructions, concrete slabs, termites’ nests and trees to control termites.",
         solution: "Use 20mls/ltrs of water.",
         sprayingintervals: "Reapeat after spotting termites.",
         image: "./images/termites.jpg",
@@ -1011,10 +1074,20 @@ const solutions = [
         pricerange:"Ksh(150-200),Ksh (300-350),Ksh (450-500),Ksh (1800-2000)"
     },
 
+{ 
+        problem: "Undertaker ", 
+        infestationimage: "./images/Undertaker.webp",
+        description:"Undertaker® 480EC (Chlorpyrifos 480 g/L) is a broad spectrum termiticide with contact, fumigant and stomach actions, used on timber, wood buildings and constructions, concrete slabs, termites’ nests and trees to control termites.",
+        solution: "Use 20mls/ltrs of water.",
+        sprayingintervals: "Reapeat after spotting termites.",
+        image: "./images/termites.jpg",
+        availablepacksize:"50mls,100mls,250mls,1ltr",
+        pricerange:"Ksh(150-200),Ksh (300-350),Ksh (450-500),Ksh (1800-2000)"
+    },
     { 
         problem: "Catapult", 
         infestationimage: "./images/catapult_480sl.webp",
-        description:"Catapult® 480SL is a systematic post-emergence non-selective herbicide for control of virtually all annual and perennial weeds.",
+        description:"Catapult® 480SL (Glyphosate 480 SL) is a systematic post-emergence non-selective herbicide for control of virtually all annual and perennial weeds.",
         solution: "Use 200mls/ltrs of water.",
         sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields.",
         image: "./images/dryweeds.webp",
@@ -1024,7 +1097,7 @@ const solutions = [
     { 
         problem: "Catapult ", 
         infestationimage: "./images/catapult_480sl.webp",
-        description:"Catapult® 480SL is a systematic post-emergence non-selective herbicide for control of virtually all annual and perennial weeds.",
+        description:"Catapult® 480SL (Glyphosate 480 SL) is a systematic post-emergence non-selective herbicide for control of virtually all annual and perennial weeds.",
         solution: "Use 200mls/ltrs of water.",
         sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields.",
         image: "./images/dryweeds.webp",
@@ -1034,7 +1107,7 @@ const solutions = [
     { 
         problem: "Hurricane", 
         infestationimage: "./images/Hurricane-512x512.png",
-        description:" Hurricane is very fast-acting broad spectrum non-selective herbicide with enhanced contact action which controls post-emergence broadleaf and grass weeds",
+        description:" Hurricane (Paraquat 200 SL) is very fast-acting broad spectrum non-selective herbicide with enhanced contact action which controls post-emergence broadleaf and grass weeds",
         solution: "Use 200mls/ltrs of water.",
         sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields.",
         image: "./images/dryweeds.webp",
@@ -1044,7 +1117,7 @@ const solutions = [
     { 
         problem: "Hurricane ", 
         infestationimage: "./images/Hurricane-512x512.png",
-        description:" Hurricane is very fast-acting broad spectrum non-selective herbicide with enhanced contact action which controls post-emergence broadleaf and grass weeds.",
+        description:" Hurricane (Paraquat 200 SL) is very fast-acting broad spectrum non-selective herbicide with enhanced contact action which controls post-emergence broadleaf and grass weeds.",
         solution: "Use 200mls/ltrs of water.",
         sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields.",
         image: "./images/dryweeds.webp",
@@ -1072,8 +1145,87 @@ const solutions = [
         pricerange:"Ksh(600-650),Ksh (2700-2800),Ksh (10000-10500)"
     },
 
+    { 
+        problem: "Governor", 
+        infestationimage: "./images/governor_580SE.webp",
+        description:"Governor® 580SE (Acetochlor 340 g/l, Atrazine 200 g/l, Mesotrione 40 g/l) is a unique mixture of 3 effective active ingredients belonging to different herbicide groups. Governor® 580 SE offers an excellent solution for cost effective, long lasting residual weeds control in maize, sweet corn and sugarcane fields.",
+        solution: "Use 200-250mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy, when the maize are 2-3 weeks after gemination.",
+        image: "./images/Governor-580-SE-maize-herbicide-kenya.jpg",
+        availablepacksize:"1ltr,5ltrs,10ltrs,20ltrs",
+        pricerange:"Ksh(1800-1900),Ksh (8500-9000),Ksh (34000-35500)"
+    },
+    { 
+        problem: "Governor ", 
+        infestationimage: "./images/governor_580SE.webp",
+        description:"Governor® 580SE (Acetochlor 340 g/l, Atrazine 200 g/l, Mesotrione 40 g/l) is a unique mixture of 3 effective active ingredients belonging to different herbicide groups. Governor® 580 SE offers an excellent solution for cost effective, long lasting residual weeds control in maize, sweet corn and sugarcane fields.",
+        solution: "Use 200-250mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy, when the maize are 2-3 weeks after gemination.",
+        image: "./images/Governor-580-SE-maize-herbicide-kenya.jpg",
+        availablepacksize:"1ltr,5ltrs,10ltrs,20ltrs",
+        pricerange:"Ksh(1800-1900),Ksh (8500-9000),Ksh (34000-35500)"
+    },
 
-    
+    { 
+        problem: "Bentagran Top", 
+        infestationimage: "./images/bentagran_top_240EC.webp",
+        description:"Bentagran Top® 240EC (Bentazone 150 g/L, Fomesafen 70 g/L, Quizalofop-p-ethyl 20 g/L) is a post-emergent herbicide for control of annual weeds in beans fields and French beans fields.",
+        solution: "Use 50mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy, when the beans/french-beans/green-grams  are 2 weeks after gemination.",
+        image: "./images/weeds_control_in_beans.jpg",
+        availablepacksize:"50mls,250mls,1ltr",
+        pricerange:"Ksh(200-250),Ksh (750-800),Ksh (1800-1900)"
+    },
+    { 
+        problem: "Bentagran", 
+        infestationimage: "./images/bentagran_top_240EC.webp",
+        description:"Bentagran Top® 240EC (Bentazone 150 g/L, Fomesafen 70 g/L, Quizalofop-p-ethyl 20 g/L) is a post-emergent herbicide for control of annual weeds in beans fields and French beans fields.",
+        solution: "Use 50mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy, when the beans/french-beans/green-grams  are 2 weeks after gemination.",
+        image: "./images/weeds_control_in_beans.jpg",
+        availablepacksize:"50mls,250mls,1ltr",
+        pricerange:"Ksh(200-250),Ksh (750-800),Ksh (1800-1900)"
+    },
+    { 
+        problem: "Bentagran ", 
+        infestationimage: "./images/bentagran_top_240EC.webp",
+        description:"Bentagran Top® 240EC (Bentazone 150 g/L, Fomesafen 70 g/L, Quizalofop-p-ethyl 20 g/L) is a post-emergent herbicide for control of annual weeds in beans fields and French beans fields.",
+        solution: "Use 50mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy, when the beans/french-beans/green-grams  are 2 weeks after gemination.",
+        image: "./images/weeds_control_in_beans.jpg",
+        availablepacksize:"50mls,250mls,1ltr",
+        pricerange:"Ksh(200-250),Ksh (750-800),Ksh (1800-1900)"
+    },
+    { 
+        problem: "Bentagran Top ", 
+        infestationimage: "./images/bent./images/Clean-onions.jpgagran_top_240EC.webp",
+        description:"Bentagran Top® 240EC (Bentazone 150 g/L, Fomesafen 70 g/L, Quizalofop-p-ethyl 20 g/L) is a post-emergent herbicide for control of annual weeds in beans fields and French beans fields.",
+        solution: "Use 50mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy, when the beans/french-beans/green-grams  are 2 weeks after gemination.",
+        image: "./images/weeds_control_in_beans.jpg",
+        availablepacksize:"50mls,250mls,1ltr",
+        pricerange:"Ksh(200-250),Ksh (750-800),Ksh (1800-1900)"
+    },
+    { 
+        problem: "Commander", 
+        infestationimage: "./images/Commander_240EC.webp",
+        description:"Commander® 240EC (Oxyfluorfen 240 g/L) is a broad-spectrum selective contact herbicide for use in the control of pre-emergence and post-emergence annual broadleaf weeds and grasses in onion, garlic, and brassicae crops fields.",
+        solution: "Use 50mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy, two weeks after transplating.",
+        image: "./images/Clean-onions.jpg",
+        availablepacksize:"50mls,100mls,250mls,1ltr",
+        pricerange:"Ksh(200-300),Ksh (400-450),Ksh (750-800), Ksh (2500-2700)"
+    },
+    { 
+        problem: "Hotline", 
+        infestationimage: "./images/Hotline-2048x2048 (1).webp",
+        description:" Hotline (Linuron 450g/L) is an excellent selective broad spectrum pre-emergence and pre-transplant herbicide that controls a wide range of broadleaf weeds and grasses in French beans, Corn, carrots and onion fields.",
+        solution: "Use 50mls/ltrs of water.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy, two weeks after germination.",
+        image: "./images/Carrrot.jpg",
+        availablepacksize:"50mls,100mls,250mls,1ltr",
+        pricerange:"Ksh(250-300),Ksh (450-500),Ksh (850-900), Ksh (2800-3000)"
+    },
 ]
 
 function searchSolutions() {
