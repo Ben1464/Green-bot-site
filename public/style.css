@@ -200,3 +200,28 @@ td {
 tr:hover {
     background-color: #a7e09b; /* Lighter green background on hover */
 }
+
+/* Define blinking animation for the button */
+@keyframes blink-button {
+    0% { background-color: rgb(31, 255, 31); } /* Start with green background */
+    50% { background-color: #2fa204; } /* Transition to darker green */
+    100% { background-color: rgb(31, 255, 31); } /* Back to original green */
+}
+
+/* Apply animation to the search button */
+button.blinking-button {
+    animation: blink-button 1s infinite;
+}
+
+
+/* Define blinking animation for the input border */
+@keyframes blink-border {
+    0% { border-color: #3ad80a; } /* Start with green border */
+    50% { border-color: #2fa204; } /* Transition to darker green */
+    100% { border-color: #3ad80a; } /* Back to original green */
+}
+
+/* Apply animation to the search input */
+#searchInput.blinking-border {
+    animation: blink-border 1s infinite;
+}
