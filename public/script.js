@@ -1,18 +1,9 @@
 const solutions = [
-    { 
-        problem: "Thrips", 
-        infestationimage: "images/thrips.jpg",
-        description: "Thrips infestations pose a serious threat to coffee production, impacting on the tree health and berries quality. Vigilance and prompt action are essential for mitigating these pest's impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.",
-        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
-        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
-        image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
-    },
+    
     { 
         problem: "Kingcode", 
         infestationimage: "./images/Kingcode-elite-2048x2048.webp",
-        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
+        description: "Kingcode Elite® 50EC (Lambda-cyhalothrin + Acetamiprid) is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/thrips.jpg",
@@ -22,7 +13,7 @@ const solutions = [
     { 
         problem: "Kingcode ", 
         infestationimage: "./images/Kingcode-elite-2048x2048.webp",
-        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
+        description: "Kingcode Elite® 50EC (Lambda-cyhalothrin + Acetamiprid) is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
         solution: "Spray 10mls + Integra 3mls/20ltrs of water.Alternating with Lexus 10mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/thrips.jpg",
@@ -32,7 +23,7 @@ const solutions = [
     { 
         problem: "Kingcode Elite", 
         infestationimage: "./images/Kingcode-elite-2048x2048.webp",
-        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
+        description: "Kingcode Elite® 50EC (Lambda-Cyhalothrin + Acetamiprid) is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
         solution: "Spray 10mls + Integra 3mls/20ltrs of water.Alternating with Lexus 10mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/thrips.jpg",
@@ -42,7 +33,7 @@ const solutions = [
     { 
         problem: "Kingcode Elite ", 
         infestationimage: "./images/Kingcode-elite-2048x2048.webp",
-        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
+        description: "Kingcode Elite® 50EC (Lambda- Cyhalothrin + Acetamiprid) is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
         solution: "Spray 10mls + Integra 3mls/20ltrs of water.Alternating with Lexus 10mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/thrips.jpg",
