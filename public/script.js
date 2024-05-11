@@ -213,6 +213,16 @@ const solutions = [
         pricerange:"Ksh (300-350),Ksh (600-700),Ksh (1200-1250),Ksh (4100-4200)"
     },
     { 
+        problem: "Boracay", 
+        infestationimage: "./images/Boracky.jpg_large",
+        description:"Apply BORACAY®  0.5 to active rodent burrows and roads to control rodents. Also apply in constructed buildings in a manner so as to avoid being vulnerable to commensal rodent invasions and/or to harboring or attracting rodent infestations provided that infestations of these rodents have been confirmed. ",
+        solution: "Place chunks of Boracay to areas prone to rats.",
+        sprayingintervals: "Ensure there no exposed water around areas prone to targetted rodents",
+        image: "./images/rats.jpg",
+        availablepacksize:"10gms",
+        pricerange:"Ksh (80-150)"
+    },
+{ 
         problem: "Pentagon", 
         infestationimage: "./images/Pentagon--2048x2048.webp",
         description:"Pentagon® 50 EC (Lambda cyhalothrin 50 g/L) is a highly active contact and ingestion insecticide active particularly against sucking and chewing insects and has long residual activity. It is widely used for controlling insect pests in a broad range of edible and ornamental crops.It has a PHI of three days hence perfect to use on vegetables.",
@@ -962,6 +972,57 @@ const solutions = [
         availablepacksize:"16ltrs,18ltrs",
         pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
     },
+    { 
+        problem: "Greenberg pump", 
+        infestationimage: "./images/grenberg .jpg",
+        description:"The Greenberg Bronze pump is the most commonly used spray pump in the country and is a usual sight in many households and farms. It is the most durable, efficient and least costly pump in the market",
+        solution: "The most affordable and relaible pump in the market.",
+        sprayingintervals: "It is easy to use ",
+        image: "./images/spraying nossle.jpg",
+        availablepacksize:"16ltrs,20ltrs",
+        pricerange:"Ksh( 1900-2200),Ksh (2500-2600)"
+    },
+    { 
+        problem: "Greenberg", 
+        infestationimage: "./images/grenberg .jpg",
+        description:"The Greenberg Bronze pump is the most commonly used spray pump in the country and is a usual sight in many households and farms. It is the most durable, efficient and least costly pump in the market",
+        solution: "The most affordable and relaible pump in the market.",
+        sprayingintervals: "It is easy to use ",
+        image: "./images/spraying nossle.jpg",
+        availablepacksize:"16ltrs,20ltrs",
+        pricerange:"Ksh( 1900-2200),Ksh (2500-2600)"
+    },
+    { 
+        problem: "Greenberg ", 
+        infestationimage: "./images/grenberg .jpg",
+        description:"The Greenberg Bronze pump is the most commonly used spray pump in the country and is a usual sight in many households and farms. It is the most durable, efficient and least costly pump in the market",
+        solution: "The most affordable and relaible pump in the market.",
+        sprayingintervals: "It is easy to use ",
+        image: "./images/spraying nossle.jpg",
+        availablepacksize:"16ltrs,20ltrs",
+        pricerange:"Ksh( 1900-2200),Ksh (2500-2600)"
+    },
+    { 
+        problem: "Manual pump", 
+        infestationimage: "./images/grenberg .jpg",
+        description:"The Greenberg Bronze pump is the most commonly used spray pump in the country and is a usual sight in many households and farms. It is the most durable, efficient and least costly pump in the market",
+        solution: "The most affordable and relaible pump in the market.",
+        sprayingintervals: "It is easy to use ",
+        image: "./images/spraying nossle.jpg",
+        availablepacksize:"16ltrs,20ltrs",
+        pricerange:"Ksh( 1900-2200),Ksh (2500-2600)"
+    },
+    { 
+        problem: "Manual pump ", 
+        infestationimage: "./images/grenberg .jpg",
+        description:"The Greenberg Bronze pump is the most commonly used spray pump in the country and is a usual sight in many households and farms. It is the most durable, efficient and least costly pump in the market",
+        solution: "The most affordable and relaible pump in the market.",
+        sprayingintervals: "It is easy to use ",
+        image: "./images/spraying nossle.jpg",
+        availablepacksize:"16ltrs,20ltrs",
+        pricerange:"Ksh( 1900-2200),Ksh (2500-2600)"
+    },
+
     { 
         problem: "Sprayer ", 
         infestationimage: "images/Greenlifestar.jpg",
