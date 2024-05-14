@@ -297,7 +297,7 @@ const solutions = [
     },
     { 
         problem: "Absolute", 
-        infestationimage: "images/Absolute-star-2048x2048.webp",
+        infestationimage: "./images/Absolute-star-1024x1024.webp",
         description:"Absolute Star 400SC (Azoxystrobin 250 g/L, Difenoconazole 150 g/L ) broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
         solution: "For preventive and curative actions alternate Absolute star 10mls with,Trinity Gold 50gmsl/20ltrs of water.",
         image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
@@ -307,7 +307,7 @@ const solutions = [
     },
     { 
         problem: "Absolute ", 
-        infestationimage: "images/Absolute-star-2048x2048.webp",
+        infestationimage: "./images/Absolute-star-1024x1024.webp",
         description:"Absolute Star 400SC (Azoxystrobin 250 g/L, Difenoconazole 150 g/L ) broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
         solution: "For preventive and curative actions alternate Absolute star 10mls with,Trinity Gold 50gmsl/20ltrs of water.",
         image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
@@ -318,7 +318,7 @@ const solutions = [
 
     { 
         problem: "Absolute Star", 
-        infestationimage: "images/Absolute-star-2048x2048.webp",
+        infestationimage: "./images/Absolute-star-1024x1024.webp",
         description:"Absolute Star 400SC (Azoxystrobin 250 g/L, Difenoconazole 150 g/L ) broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
         solution: "For preventive and curative actions alternate Absolute star 10mls with,Trinity Gold 50gmsl/20ltrs of water.",
         image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
@@ -328,7 +328,7 @@ const solutions = [
     },
     { 
         problem: "Absolute Star ", 
-        infestationimage: "images/Absolute-star-2048x2048.webp",
+        infestationimage: "./images/Absolute-star-1024x1024.webp",
         description:"Absolute Star 400SC (Azoxystrobin 250 g/L, Difenoconazole 150 g/L ) broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
         solution: "For preventive and curative actions alternate Absolute star 10mls with,Trinity Gold 50gmsl/20ltrs of water.",
         image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
@@ -380,7 +380,7 @@ const solutions = [
 
     { 
         problem: "Absolute Star ", 
-        infestationimage: "images/Absolute-star-2048x2048.webp",
+        infestationimage: "./images/Absolute-star-1024x1024.webp",
         description:"Absolute Star 400SC (Azoxystrobin 250 g/L, Difenoconazole 150 g/L ) broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
         solution: "For preventive and curative actions alternate Absolute star 10mls with,Trinity Gold 50gmsl/20ltrs of water.",
         image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
@@ -1452,7 +1452,7 @@ function showContactList() {
         <tr>
             <td>Coffee Nyeri-Murang'a-Kiambu-Meru</td>
             <td>Benson Mwangi</td>
-            <td> <a href="tel:+254743086533"><i class="fas fa-phone"></i> +254743086533</a></td>
+            <td><a href="tel:+254743086533"><i class="fas fa-phone"></i> +254743086533</a></td>
         </tr>
         
 
