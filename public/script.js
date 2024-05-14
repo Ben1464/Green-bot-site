@@ -1384,3 +1384,82 @@ function handleAutomaticSearch() {
 window.onload = function() {
     handleAutomaticSearch(); // Perform automatic search based on URL parameter
 };
+
+
+// Function to handle the click event on the Connect button
+// Function to handle the click event on the Connect button
+// Function to handle the click event on the Connect button
+function showContactList() {
+    const contactList = document.getElementById("contactList");
+
+    // Clear any existing content
+    contactList.innerHTML = "";
+
+    // Create and append the table
+    const table = document.createElement("table");
+    table.innerHTML = `
+        <tr>
+            <th>Regions</th>
+            <th>Name</th>
+            <th>Contact</th>
+        </tr>
+        <tr>
+        <td>Regional Manager - Mt.Kenya</td>
+        <td>Peter Chege</td>
+        <td><a href="tel:+254759790387"><i class="fas fa-phone"></i> +254759790387</a></td>
+    </tr>
+
+        <tr>
+            <td>Kiambu</td>
+            <td>Samuel Gitahi</td>
+            <td> <a href="tel:+254742512369"><i class="fas fa-phone"></i> +254742512369</a></td>
+        </tr>
+        <tr>
+            <td>Murang'a</td>
+            <td>Eric Mutwiri</td>
+            <td> <a href="tel:+254742511623"><i class="fas fa-phone"></i> +254742511623</a></td>
+        </tr>
+        <tr>
+            <td>Kirinyaga</td>
+            <td>Kelvin Ngure</td>
+            <td><a href="tel:+254742512107"><i class="fas fa-phone"></i> +254742512107</a></td>
+        </tr>
+        <tr>
+            <td>Embu</td>
+            <td>Peter Muteti</td>
+            <td> <a href="tel:+254743566824"><i class="fas fa-phone"></i> +254743566824</a></td>
+        </tr>
+        <tr>
+            <td>Meru-Tharaka</td>
+            <td>Amos Mureti</td>
+            <td> <a href="tel:+254743086987"><i class="fas fa-phone"></i> +254743086987</a></td>
+        </tr>
+        <tr>
+            <td>Maua-Isiolo</td>
+            <td>Reobery Mutuku</td>
+            <td><a href="tel:+254742511623"><i class="fas fa-phone"></i> +254742511623</a></td>
+        </tr>
+        <tr>
+            <td>Nanyuki-Narumoru</td>
+            <td>Joseph Mucau</td>
+            <td> <a href="tel:+254742512384"><i class="fas fa-phone"></i> +254742512384</a></td>
+        </tr>
+        <tr>
+            <td>Coffee Embu-Kirinyaga</td>
+            <td>Charles Kithinji</td>
+            <td> <a href="tel:+254742512645"><i class="fas fa-phone"></i> +254742512645</a></td>
+        </tr>
+        <tr>
+            <td>Coffee Nyeri-Murang'a-Kiambu-Meru</td>
+            <td>Benson Mwangi</td>
+            <td> <a href="tel:+254743086533"><i class="fas fa-phone"></i> +254743086533</a></td>
+        </tr>
+        
+
+
+    `;
+    contactList.appendChild(table);
+}
+
+// Add event listener to the Connect button
+document.querySelector('.connect').addEventListener('click', showContactList);
