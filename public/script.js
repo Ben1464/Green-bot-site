@@ -110,7 +110,7 @@ const solutions = [
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/whiteflies.webp",
         availablepacksize:"40mls,100mls,1ltr.",
-        pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
+        pricerange:"Ksh(250-300),Ksh(600-700),Ksh(6500-6800)"
     },
     { 
         problem: "Lexus ", 
@@ -120,7 +120,7 @@ const solutions = [
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/whiteflies.webp",
         availablepacksize:"40mls,100mls,1ltr.",
-        pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
+        pricerange:"Ksh(250-300),Ksh(600-700),Ksh(6500-6800)"
     },
     { 
         problem: "Bazooka", 
