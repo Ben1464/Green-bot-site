@@ -190,7 +190,7 @@ const solutions = [
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/fallarmy.jpg",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh (300-350),Ksh (600-700),Ksh (1200-1250),Ksh (4100-4200)"
+        pricerange:"Ksh (300-350),Ksh (550-650),Ksh (1200-1250),Ksh (4100-4200)"
     },
 
  { 
@@ -201,7 +201,7 @@ const solutions = [
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/fallarmy.jpg",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh (300-350),Ksh (600-700),Ksh (1200-1250),Ksh (4100-4200)"
+        pricerange:"Ksh (300-350),Ksh (550-600),Ksh (1200-1250),Ksh (4100-4200)"
     },
     { 
         problem: "Boracay", 
@@ -1417,7 +1417,7 @@ function showContactList() {
         <tr>
             <td>Murang'a</td>
             <td>Eric Mutwiri</td>
-            <td> <a href="tel:+254742511623"><i class="fas fa-phone"></i> +254742511623</a></td>
+            <td> <a href="tel:+254742511873"><i class="fas fa-phone"></i> +254742511623</a></td>
         </tr>
         <tr>
             <td>Kirinyaga</td>
