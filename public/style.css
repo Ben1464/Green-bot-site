@@ -248,9 +248,8 @@ button.blinking-button {
 
 /* Table styles */
 table {
-    padding: 10px;
-    margin: 10px;
-    width: 80%;
+    
+    width: 100%;
     margin-top: 10px;
     border-collapse: collapse;
     border-radius: 6px;
