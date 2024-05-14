@@ -215,12 +215,11 @@ button.blinking-button {
 
 
 /* Define blinking animation for the input border */
-@keyframes blink-border {
-    0% { border-color: #3ad80a; } /* Start with green border */
-    50% { border-color: rgb(231, 82, 28); } /* Transition to darker green */
-    100% { border-color: #3ad80a; } /* Back to original green */
-}
-
+/* @keyframes blink-border {
+    0% { border-color: #3ad80a; } 
+    50% { border-color: rgb(231, 82, 28); } 
+    100% { border-color: #3ad80a; } 
+} */
 /* Apply animation to the search input */
 #searchInput.blinking-border {
     animation: blink-border 1s infinite;
