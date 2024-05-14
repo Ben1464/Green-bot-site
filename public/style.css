@@ -229,7 +229,7 @@ button.blinking-button {
     padding: 10px;
     margin: 10px;
     /* height: 300px;  */
-    max-width: 200px;
+    /* max-width: 200px; */
     background-color: #f0f0f0;
     border-radius: 6px;
     color: #333; 
@@ -250,7 +250,8 @@ button.blinking-button {
 /* Table styles */
 table {
     
-    width: 50%;
+    /* width: 50%; */
+    max-width: 300px;
     margin-top: 10px;
     border-collapse: collapse;
     border-radius: 6px;
