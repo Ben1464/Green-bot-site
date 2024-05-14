@@ -251,7 +251,7 @@ button.blinking-button {
 table {
     
     /* width: 50%; */
-    max-width: 300px;
+    width: 250px;
     margin-top: 10px;
     border-collapse: collapse;
     border-radius: 6px;
