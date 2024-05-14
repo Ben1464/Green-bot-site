@@ -1404,7 +1404,7 @@ function showContactList() {
             <th>Contact</th>
         </tr>
         <tr>
-        <td>Regional Manager - Mt.Kenya</td>
+        <td>Mt.Kenya Regional-Manager</td>
         <td>Peter Chege</td>
         <td><a href="tel:+254759790387"><i class="fas fa-phone"></i> +254759790387</a></td>
     </tr>
