@@ -244,6 +244,11 @@ button.blinking-button {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 } */
 
+.contacts{
+    padding: 10px;
+    margin: 10px; 
+}
+
 
 
 /* Table styles */
