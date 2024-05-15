@@ -70,7 +70,7 @@ const solutions = [
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/aphids.webp",
         availablepacksize:"20gms,100gms,250gms, 1Kg.",
-        pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
+        pricerange:"Ksh (150-200),Ksh (450-500),Ksh (1250-1300),Ksh (3400-3600)"
     },
     { 
         problem: "Presento ", 
@@ -80,7 +80,7 @@ const solutions = [
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/aphids.webp",
         availablepacksize:"20gms,100gms,250gms, 1Kg.",
-        pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
+        pricerange:"Ksh (150-200),Ksh (450-500),Ksh (1250-1300),Ksh (3400-3600)"
     },
     { 
         problem: "Ranger", 
@@ -221,7 +221,7 @@ const solutions = [
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/kalespest.webp",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh (300-350),Ksh (600-700),Ksh (1200-1250),Ksh (4100-4200)"
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (550-600),Ksh (850-900),Ksh (1600-1700)"
     },
     { 
         problem: "Taurus", 
@@ -242,7 +242,7 @@ const solutions = [
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/kalespest.webp",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh (300-350),Ksh (600-700),Ksh (1200-1250),Ksh (4100-4200)"
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (550-600),Ksh (850-900),Ksh (1600-1700)"
     },
     { 
         problem: "Indoking", 
@@ -303,7 +303,7 @@ const solutions = [
         image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(400-450),Ksh(750-800),Ksh(1800-1900),Ksh(6800-7000)."
     },
     { 
         problem: "Absolute ", 
@@ -313,7 +313,7 @@ const solutions = [
         image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(400-450),Ksh(750-800),Ksh(1800-1900),Ksh(6800-7000)."
     },
 
     { 
@@ -324,7 +324,7 @@ const solutions = [
         image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(400-450),Ksh(750-800),Ksh(1800-1900),Ksh(6800-7000)."
     },
     { 
         problem: "Absolute Star ", 
@@ -334,7 +334,7 @@ const solutions = [
         image: "./images/Bacterial-Spot-on-Tomato-Plant.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(400-450),Ksh(750-800),Ksh(1800-1900),Ksh(6800-7000)."
     },
 
     { 
