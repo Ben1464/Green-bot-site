@@ -84,6 +84,14 @@ h2 {
     box-shadow: 0 0 5px #000;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.slogan{
+    background: linear-gradient(to right, rgb(231, 82, 28), #00ff00);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-weight: bolder; 
+}
+
 /* Define blinking animation */
 @keyframes blink {
     0% { opacity: 1; }
@@ -118,6 +126,13 @@ img.logo{
 .word2 {
     color: rgb(231, 82, 28); /* Red color for the second word */
     font-weight: bold;
+}
+.word3{
+    background: linear-gradient(to right, rgb(231, 82, 28), #00ff00);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-weight: bolder; 
 }
 /* Responsive design */
 @media (min-width: 768px) {
@@ -204,7 +219,7 @@ tr:hover {
 /* Define blinking animation for the button */
 @keyframes blink-button {
     0% { background-color: rgb(14, 243, 14); } /* Start with green background */
-    50% { background-color: rgb(231, 82, 28); } /* Transition to darker green */
+    50% { background-color: greenyellow; } /* Transition to darker green */
     100% { background-color: rgb(31, 255, 31); } /* Back to original green */
 }
 
