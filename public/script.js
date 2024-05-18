@@ -3,8 +3,8 @@ const solutions = [
     { 
         problem: "Kingcode", 
         infestationimage: "./images/Kingcode-elite-2048x2048.webp",
-        description: "Kingcode Elite® 50EC (Lambda-cyhalothrin + Acetamiprid) is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
-        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        description: "Kingcode Elite® 50EC <strong> (Lambda-cyhalothrin + Acetamiprid) </strong> is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
+        solution: "To eradicate them use <strong> Kingcode 10mls + Integra 3mls/20ltrs </strong> of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/thrips.jpg",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
@@ -13,8 +13,8 @@ const solutions = [
     { 
         problem: "Kingcode ", 
         infestationimage: "./images/Kingcode-elite-2048x2048.webp",
-        description: "Kingcode Elite® 50EC (Lambda-cyhalothrin + Acetamiprid) is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
-        solution: "Spray 10mls + Integra 3mls/20ltrs of water.Alternating with Lexus 10mls/20ltrs.",
+        description: "Kingcode Elite® 50EC <strong> (Lambda-cyhalothrin + Acetamiprid) </strong> is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
+        solution: "To eradicate them use <strong> Kingcode 10mls + Integra 3mls/20ltrs </strong> of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/thrips.jpg",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
@@ -23,8 +23,8 @@ const solutions = [
     { 
         problem: "Kingcode Elite", 
         infestationimage: "./images/Kingcode-elite-2048x2048.webp",
-        description: "Kingcode Elite® 50EC (Lambda-Cyhalothrin + Acetamiprid) is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
-        solution: "Spray 10mls + Integra 3mls/20ltrs of water.Alternating with Lexus 10mls/20ltrs.",
+        description: "Kingcode Elite® 50EC <strong> (Lambda-cyhalothrin + Acetamiprid) </strong> is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
+        solution: "To eradicate them use <strong> Kingcode 10mls + Integra 3mls/20ltrs </strong> of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/thrips.jpg",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
@@ -33,8 +33,8 @@ const solutions = [
     { 
         problem: "Kingcode Elite ", 
         infestationimage: "./images/Kingcode-elite-2048x2048.webp",
-        description: "Kingcode Elite® 50EC (Lambda- Cyhalothrin + Acetamiprid) is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
-        solution: "Spray 10mls + Integra 3mls/20ltrs of water.Alternating with Lexus 10mls/20ltrs.",
+        description: "Kingcode Elite® 50EC <strong> (Lambda-cyhalothrin + Acetamiprid) </strong> is a highly systemic and contact insecticide and is active against sucking and chewing insects with broad spectrum long residual activity.",
+        solution: "To eradicate them use <strong> Kingcode 10mls + Integra 3mls/20ltrs </strong> of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/thrips.jpg",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
@@ -44,8 +44,8 @@ const solutions = [
     { 
         problem: "Emerald", 
         infestationimage: "./images/Emerald_200sl.webp",
-        description: "Emerald® 200SL (Imidacloprid 200 g/L) is a highly effective systemic foliar insecticide with high residual effect, for controlling sucking insects in a wide range of agricultural crops like miraa,mugukaa, fruits and vegetables.",
-        solution: "Use Emerald 10mls/20ltrs + Integra 3mls after spotting infestation cases.Alternate with Lexus 10mls/20ltrs.",
+        description: "Emerald® 200SL <strong>(Imidacloprid 200 g/L)</strong> is a highly effective systemic foliar insecticide with high residual effect, for controlling sucking insects in a wide range of agricultural crops like miraa,mugukaa, fruits and vegetables.",
+        solution: "Use <strong>Emerald 10mls/20ltrs + Integra 3mls</strong> after spotting infestation cases.Alternate with Lexus 10mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/miraa scales.jpg",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
@@ -55,8 +55,8 @@ const solutions = [
 { 
         problem: "Emerald ", 
         infestationimage: "./images/Emerald_200sl.webp",
-        description: "Emerald® 200SL (Imidacloprid 200 g/L) is a highly effective systemic foliar insecticide with high residual effect, for controlling sucking insects in a wide range of agricultural crops like miraa,mugukaa, fruits and vegetables.",
-        solution: "Use Emerald 10mls/20ltrs + Integra 3mls after spotting infestation cases.Alternate with Lexus 10mls/20ltrs.",
+       description: "Emerald® 200SL <strong>(Imidacloprid 200 g/L)</strong> is a highly effective systemic foliar insecticide with high residual effect, for controlling sucking insects in a wide range of agricultural crops like miraa,mugukaa, fruits and vegetables.",
+        solution: "Use <strong>Emerald 10mls/20ltrs + Integra 3mls</strong> after spotting infestation cases.Alternate with Lexus 10mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/miraa scales.jpg",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
@@ -65,8 +65,8 @@ const solutions = [
     { 
         problem: "Presento", 
         infestationimage: "images/PRESENTO-KG-2048x2048.webp",
-        description:"Presento® 200SP (Acetamiprid 200 g/kg) is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
-        solution: "Use Presento 10gms/20ltrs + Integra 3mls after spotting infestation cases.Alternate with Lexus 10mls/20ltrs.",
+        description:"Presento® 200SP <strong>(Acetamiprid 200 g/kg)</strong> is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
+        solution: "Use <strong>Presento 10gms/20ltrs + Integra 3mls</strong> after spotting infestation cases.Alternate with Lexus 10mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/aphids.webp",
         availablepacksize:"20gms,100gms,250gms, 1Kg.",
@@ -75,9 +75,8 @@ const solutions = [
     { 
         problem: "Presento ", 
         infestationimage: "images/PRESENTO-KG-2048x2048.webp",
-        description:"Presento® 200SP (Acetamiprid 200 g/kg) is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
-        solution: "Use Presento 10gms/20ltrs + Integra 3mls after spotting infestation cases.Alternate with Lexus 10mls/20ltrs.",
-        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        description:"Presento® 200SP <strong>(Acetamiprid 200 g/kg)</strong> is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
+        solution: "Use <strong>Presento 10gms/20ltrs + Integra 3mls</strong> after spotting infestation cases.Alternate with Lexus 10mls/20ltrs.",
         image: "./images/aphids.webp",
         availablepacksize:"20gms,100gms,250gms, 1Kg.",
         pricerange:"Ksh (150-200),Ksh (450-500),Ksh (1250-1300),Ksh (3400-3600)"
