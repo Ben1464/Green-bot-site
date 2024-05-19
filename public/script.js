@@ -392,8 +392,8 @@ const solutions = [
     { 
         problem: "Trinity Gold", 
         infestationimage: "./images/Trinity-Gold.webp",
-        description:"Trinity Gold® 452WP (Copper Oxychloride 290 g/kg, Cymoxanil 42 g/kg, Mancozeb 120 g/kg) is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
-        solution: "For preventive and curative actions alternate Trinity Gold 50gmsl/20ltrs of water with Absolute star 10mls.",
+        description:"Trinity Gold® 452WP <strong>(Copper Oxychloride 290 g/kg, Cymoxanil 42 g/kg, Mancozeb 120 g/kg)</strong> is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
+        solution: "For preventive and curative actions alternate <strong>Trinity Gold 50gmsl/20ltrs </strong>of water with Absolute star 10mls.",
         image: "./images/Late-Blight-Tomatoes.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         availablepacksize:"50gms,100gms,250gms,500gms,1kg,5kgs.",
@@ -402,8 +402,8 @@ const solutions = [
     { 
         problem: "Trinity", 
         infestationimage: "./images/Trinity-Gold.webp",
-        description:"Trinity Gold® 452WP (Copper Oxychloride 290 g/kg, Cymoxanil 42 g/kg, Mancozeb 120 g/kg) is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
-        solution: "For preventive and curative actions alternate Trinity Gold 50gmsl/20ltrs of water with Absolute star 10mls.",
+        description:"Trinity Gold® 452WP <strong>(Copper Oxychloride 290 g/kg, Cymoxanil 42 g/kg, Mancozeb 120 g/kg)</strong> is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
+        solution: "For preventive and curative actions alternate <strong>Trinity Gold 50gmsl/20ltrs of water with Absolute star 10mls.</strong>",
         image: "./images/Late-Blight-Tomatoes.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         availablepacksize:"50gms,100gms,250gms,500gms,1kg,5kgs.",
@@ -412,8 +412,8 @@ const solutions = [
     { 
         problem: "Trinity ", 
         infestationimage: "./images/Trinity-Gold.webp",
-        description:"Trinity Gold® 452WP (Copper Oxychloride 290 g/kg, Cymoxanil 42 g/kg, Mancozeb 120 g/kg) is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
-        solution: "For preventive and curative actions alternate Trinity Gold 50gmsl/20ltrs of water with Absolute star 10mls.",
+        description:"Trinity Gold® 452WP <strong>(Copper Oxychloride 290 g/kg, Cymoxanil 42 g/kg, Mancozeb 120 g/kg)</strong> is a highly effective protectant and systemic fungicide/bactericide which prevents fungal and bacterial infection on a wide range of diseases on various crops like watermelons,vegetables and tubers.",
+        solution: "For preventive and curative actions alternate <srong>Trinity Gold 50gmsl/20ltrs of water with Absolute star 10mls.</srong>",
         image: "./images/Late-Blight-Tomatoes.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         availablepacksize:"50gms,100gms,250gms,500gms,1kg,5kgs.",
