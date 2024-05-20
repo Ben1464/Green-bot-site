@@ -1464,3 +1464,26 @@ function showContactList() {
 
 // Add event listener to the Connect button
 document.querySelector('.connect').addEventListener('click', showContactList);
+
+document.addEventListener('DOMContentLoaded', function() {
+    const header = document.querySelector('header h2');
+    const text = header.textContent;
+    header.textContent = ''; // Clear the initial text
+    header.classList.add('typewriter');
+
+    let i = 0;
+    const speed = 100; // Adjust typing speed here
+
+    function typeWriter() {
+        if (i < text.length) {
+            header.textContent += text.charAt(i);
+            i++;
+            setTimeout(typeWriter, speed);
+        } else {
+            header.classList.remove('typewriter');
+        }
+    }
+
+    typeWriter();
+});
+
