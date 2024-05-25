@@ -185,7 +185,7 @@ const solutions = [
         problem: "Escort", 
         infestationimage: "./images/Escort.webp",
         description:"Escort <strong>(Emamectin benzoate 19 g/L)</strong> is a highly effective natural insecticide containing Emamectin benzoate that targets a wide range lepidopteran insect pests such as fall armyworms, caterpillars, tuta absoluta, thrips, spider mites and diamondback among others on wide range of agricultural crops.",
-        solution: "Spray <strong>Escort 20mls-25mls/ plus Integra 3mls/20ltrs</strong> of water,for preventive and eradication actions. When controlling fallarmy worms spray during the evening hours for effective eradication.Alternate with Occasion star 3-5mls/20ltrs.",
+        solution: "Spray <strong>Escort 20mls-25mls/ plus Integra 3mls/20ltrs</strong> of water to eradicate them. Spray during the evening hours for effective eradication.Alternate with Occasion star 3-5mls/20ltrs.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 10-14 days.",
         image: "./images/fallarmy.jpg",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
