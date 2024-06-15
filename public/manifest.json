@@ -1,0 +1,22 @@
+{
+    "name": "Greenlife Bot-site",
+    "short_name": "Greenlife",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "description": "The site offers information on curated remedies tailored for maximum impact on your farm.",
+    "icons": [
+      {
+        "src": "./images/greenlife.webp",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "./images/greenlife.webp",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
