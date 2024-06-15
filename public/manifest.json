@@ -1,6 +1,6 @@
 {
     "name": "Greenlife Bot-site",
-    "short_name": "Greenlife",
+    "short_name": "Greenlife-bot",
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
