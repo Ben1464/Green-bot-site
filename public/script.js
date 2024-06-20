@@ -800,20 +800,22 @@ const solutions = [
     }, 
     { 
         problem: "Integra", 
-        infestationimage:"images/Integra (1).webp",
-        solution: "Integra® (Polyalkyleneoxide modified Heptamethyl trisiloxane 800 g/L minimum) is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
-        image: "images/stickersp.jpg",
-        sprayingintervals:"Incoporate it every time you are doing spraying of whatever kind",
+        infestationimage:"./images/Integra (1).webp",
+        description:"Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.",
+        solution: "Incoporate Integra 3-5mls/20ltrs of water in ALL your spays to increase their efficacy.",
+        image: "images/integra imafezs.jpg",
+        sprayingintervals:"Incoporate it every time you are doing your spraying.",
         availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
         pricerange:"Ksh (150-180),Ksh(250-300),Ksh(450-500),Ksh(1250-1300),Ksh(3400-3500)"
     },
 
     { 
         problem: "Integra ", 
-        infestationimage:"images/Integra (1).webp",
-        solution: "Integra® (Polyalkyleneoxide modified Heptamethyl trisiloxane 800 g/L minimum) is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
-        image: "images/stickersp.jpg",
-        sprayingintervals:"Incoporate it every time you are doing spraying of whatever kind",
+        infestationimage:"./images/Integra (1).webp",
+        description:"Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.",
+        solution: "Incoporate Integra 3-5mls/20ltrs of water in ALL your spays to increase their efficacy.",
+        image: "images/integra imafezs.jpg",
+        sprayingintervals:"Incoporate it every time you are doing your spraying.",
         availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
         pricerange:"Ksh (150-180),Ksh(250-300),Ksh(450-500),Ksh(1250-1300),Ksh(3400-3500)"
     },
