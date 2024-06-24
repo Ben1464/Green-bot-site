@@ -274,34 +274,34 @@ const solutions = [
         pricerange:"Ksh (600-700),Ksh (1200-1300),Ksh (2300-2400),Ksh (5300-5400),Ksh (10400-10600), Ksh (19700-20900)"
     },
     { 
+        problem: "Occasion", 
+        infestationimage: "./images/occasion-star.webp",
+        description:"Occasion star 200 SC <strong>(Emamectin benzoate 40 g/L, Indoxacarb 160 g/L)</strong> is an excellent broad spectrum contact and ingestion insecticide for control of pests like tuta absoluta,DBM,thrips,red spider mites and fall armyworms on a wide range of crops like vegetables,fruits and miraa.",
+        solution: "Spray <strong>Occasion Star 3-5mls plus Integra 3mls/20ltrs</strong> of water,for eradication actions. Alternate with Indoking 3-5mls/20ltrs or Lexus 10mls/20ltrs.",
+        sprayingintervals: "Repeat spray after 14 days. If the infestation is adverse repeat after 10 days.",
+        image: "./images/Muguka 2.jpg",
+        availablepacksize:"25mls,50mls,100mls,250mls,1ltr",
+        pricerange:"Ksh (400-450),Ksh (700-750),Ksh (1350-1450),Ksh (3800-4000),Ksh (15300-15600)"
+    },
+    { 
         problem: "Occasion star", 
         infestationimage: "./images/occasion-star.webp",
-        description:"Occasion star 200 SC <strong>(Emamectin benzoate 40 g/L, Indoxacarb 160 g/L)</strong> is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM,thrips,red spider mites and fall armyworms on a wide range of crops like vegetables,fruits and miraa.",
-        solution: "Spray <strong>Occasion Star 3-5mls plus Integra 3mls/20ltrs</strong> of water,for eradication actions. Alternate with Indoking 3-5mls/20ltrs.",
+        description:"Occasion star 200 SC <strong>(Emamectin benzoate 40 g/L, Indoxacarb 160 g/L)</strong> is an excellent broad spectrum contact and ingestion insecticide for control of pests like tuta absoluta,DBM,thrips,red spider mites and fall armyworms on a wide range of crops like vegetables,fruits and miraa.",
+        solution: "Spray <strong>Occasion Star 3-5mls plus Integra 3mls/20ltrs</strong> of water,for eradication actions. Alternate with Indoking 3-5mls/20ltrs or Lexus 10mls/20ltrs.",
         sprayingintervals: "Repeat spray after 14 days. If the infestation is adverse repeat after 10 days.",
-        image: "./images/ballwarm.jpg",
-        availablepacksize:"25mls,50mls,100mls,250mls,500,1ltr.",
-        pricerange:"Ksh (550-600),Ksh (1100-1200),Ksh (1800-2000),Ksh (4800-5000),Ksh (9600-10000), Ksh (19700-20900)"
+        image: "./images/Muguka 2.jpg",
+        availablepacksize:"25mls,50mls,100mls,250mls,1ltr",
+        pricerange:"Ksh (400-450),Ksh (700-750),Ksh (1350-1450),Ksh (3800-4000),Ksh (15300-15600)"
     },
     { 
         problem: "Occasion star ", 
         infestationimage: "./images/occasion-star.webp",
-        description:"Occasion star 200 SC <strong>(Emamectin benzoate 40 g/L, Indoxacarb 160 g/L)</strong> is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM,thrips,red spider mites and fall armyworms on a wide range of crops like vegetables,fruits and miraa.",
-        solution: "Spray <strong>Occasion Star 3-5mls plus Integra 3mls/20ltrs</strong> of water,for eradication actions. Alternate with Indoking 3-5mls/20ltrs.",
+        description:"Occasion star 200 SC <strong>(Emamectin benzoate 40 g/L, Indoxacarb 160 g/L)</strong> is an excellent broad spectrum contact and ingestion insecticide for control of pests like tuta absoluta,DBM,thrips,red spider mites and fall armyworms on a wide range of crops like vegetables,fruits and miraa.",
+        solution: "Spray <strong>Occasion Star 3-5mls plus Integra 3mls/20ltrs</strong> of water,for eradication actions. Alternate with Indoking 3-5mls/20ltrs or Lexus 10mls/20ltrs.",
         sprayingintervals: "Repeat spray after 14 days. If the infestation is adverse repeat after 10 days.",
-        image: "./images/ballwarm.jpg",
-        availablepacksize:"25mls,50mls,100mls,250mls,500,1ltr.",
-        pricerange:"Ksh (550-600),Ksh (1100-1200),Ksh (1800-2000),Ksh (4800-5000),Ksh (9600-10000), Ksh (19700-20900)"
-    },
-    { 
-        problem: "Occasion", 
-        infestationimage: "./images/occasion-star.webp",
-        description:"Occasion star 200 SC <strong>(Emamectin benzoate 40 g/L, Indoxacarb 160 g/L)</strong> is an excellent broad spectrum contact and ingestion insecticide for control of lepidopteran insect pests like tuta absoluta,DBM,thrips,red spider mites and fall armyworms on a wide range of crops like vegetables,fruits and miraa.",
-        solution: "Spray <strong>Occasion Star 3-5mls plus Integra 3mls/20ltrs</strong> of water,for eradication actions. Alternate with Indoking 3-5mls/20ltrs.",
-        sprayingintervals: "Repeat spray after 14 days. If the infestation is adverse repeat after 10 days.",
-        image: "./images/ballwarm.jpg",
-        availablepacksize:"25mls,50mls,100mls,250mls,500,1ltr.",
-        pricerange:"Ksh (550-600),Ksh (1100-1200),Ksh (1800-2000),Ksh (4800-5000),Ksh (9600-10000), Ksh (19700-20900)"
+        image: "./images/Muguka 2.jpg",
+        availablepacksize:"25mls,50mls,100mls,250mls,1ltr",
+        pricerange:"Ksh (400-450),Ksh (700-750),Ksh (1350-1450),Ksh (3800-4000),Ksh (15300-15600)"
     },
 
     
