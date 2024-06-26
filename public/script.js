@@ -346,6 +346,16 @@ const solutions = [
         availablepacksize:"50mls,100mls,250mls,1ltr.",
         pricerange:"Ksh(400-450),Ksh(750-800),Ksh(1800-1900),Ksh(6800-7000)."
     },
+    { 
+        problem: "Keepwatch", 
+        infestationimage: "./images/Keepwatch-1L--2048x2048.webp",
+        description:"Keepwatch® 450CS <strong>(Pendimethalin 450 g/L)</strong> is an excellent Selective broad-spectrum Pre-emergence systemic Capsule Suspension herbicide designed for the control of a broad range of weeds including annual and perennial grasses, broadleaf species and woody species on rice,maize, wheat, barley fields.",
+        solution: "Use 200-250mls/20ltrs of water one week after transplating your rice",
+        image: "./images/Rice fileds.jpg",
+        sprayingintervals: "Ensure the paddies are well drained of all the water before spraying",
+        availablepacksize:"500mls,1ltr",
+        pricerange:"Ksh(800-850),Ksh(1600-1700)."
+    },
 
     { 
         problem: "Katerina", 
