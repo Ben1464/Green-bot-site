@@ -1231,9 +1231,9 @@ const solutions = [
     { 
         problem: "Agromine", 
         infestationimage: "./images/agromine_860sl-1.webp",
-        description:"Agromine® 860SL (2, 4 - D Amine salt 860 g/L) is a broad spectrum selective systemic herbicide for the control of post-emergence broadleaf weeds in maize, rice and wheat fields and non-cropped areas like lawns.",
+        description:"Agromine® 860SL <strong>(2, 4 - D Amine salt 860 g/L)</strong> is a broad spectrum selective systemic herbicide for the control of post-emergence broadleaf weeds in maize, rice and wheat fields and non-cropped areas like lawns.",
         solution: "Use 150mls/ltrs of water.",
-        sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy. When using it as a selective herbicide in maize fields ensure you spray when the maize are 2 to 3 weeks after germination.",
         image: "./images/dryweeds.webp",
         availablepacksize:"1ltr,5ltrs,20ltrs",
         pricerange:"Ksh(600-650),Ksh (2700-2800),Ksh (10000-10500)"
@@ -1241,9 +1241,9 @@ const solutions = [
     { 
         problem: "Agromine ", 
         infestationimage: "./images/agromine_860sl-1.webp",
-        description:"Agromine® 860SL (2, 4 - D Amine salt 860 g/L) is a broad spectrum selective systemic herbicide for the control of post-emergence broadleaf weeds in maize, rice and wheat fields and non-cropped areas like lawns.",
+        description:"Agromine® 860SL <strong>(2, 4 - D Amine salt 860 g/L)</strong> is a broad spectrum selective systemic herbicide for the control of post-emergence broadleaf weeds in maize, rice and wheat fields and non-cropped areas like lawns.",
         solution: "Use 150mls/ltrs of water.",
-        sprayingintervals: "Spary when the soil is moist for more efficacy. It is non selective so ensure zero contact with the crop if used in croped fields.",
+        sprayingintervals: "Spary when the soil is moist for more efficacy. When using it as a selective herbicide in maize fields ensure you spray when the maize are 2 to 3 weeks after germination.",
         image: "./images/dryweeds.webp",
         availablepacksize:"1ltr,5ltrs,20ltrs",
         pricerange:"Ksh(600-650),Ksh (2700-2800),Ksh (10000-10500)"
@@ -1252,11 +1252,11 @@ const solutions = [
     { 
         problem: "Governor", 
         infestationimage: "./images/governor_580SE.webp",
-        description:"Governor® 580SE (Acetochlor 340 g/l, Atrazine 200 g/l, Mesotrione 40 g/l) is a unique mixture of 3 effective active ingredients belonging to different herbicide groups. Governor® 580 SE offers an excellent solution for cost effective, long lasting residual weeds control in maize, sweet corn and sugarcane fields.",
+        description:"Governor® 580SE <strong>(Acetochlor 340 g/l, Atrazine 200 g/l, Mesotrione 40 g/l)</strong> is a unique mixture of 3 effective active ingredients belonging to different herbicide groups. Governor® 580 SE offers an excellent solution for cost effective, long lasting residual weeds control in maize, sweet corn and sugarcane fields.",
         solution: "Use 200-250mls/ltrs of water.",
         sprayingintervals: "Spary when the soil is moist for more efficacy, when the maize are 2-3 weeks after gemination.",
         image: "./images/Governor-580-SE-maize-herbicide-kenya.jpg",
-        availablepacksize:"1ltr,5ltrs,10ltrs,20ltrs",
+        availablepacksize:"1ltr,5ltrs,20ltrs",
         pricerange:"Ksh(1800-1900),Ksh (8500-9000),Ksh (34000-35500)"
     },
     { 
@@ -1266,7 +1266,7 @@ const solutions = [
         solution: "Use 200-250mls/ltrs of water.",
         sprayingintervals: "Spary when the soil is moist for more efficacy, when the maize are 2-3 weeks after gemination.",
         image: "./images/Governor-580-SE-maize-herbicide-kenya.jpg",
-        availablepacksize:"1ltr,5ltrs,10ltrs,20ltrs",
+        availablepacksize:"1ltr,5ltrs,20ltrs",
         pricerange:"Ksh(1800-1900),Ksh (8500-9000),Ksh (34000-35500)"
     },
 
